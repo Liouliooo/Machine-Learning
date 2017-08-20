@@ -6,7 +6,7 @@
 
  * [Convolutional Neural Networks](#convolutional-neural-networks)
  * [Reinforcement Learning](#reinforcement-learning)
- * [Machine Learning](#machine learning)
+ * [Machine Learning](#machine-learning)
  * [Generative Adversarial Networks](#generative-adversarial-networks)
   
 ***
