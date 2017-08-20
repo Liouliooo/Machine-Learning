@@ -5,9 +5,9 @@
 ##  目录
 
  * [Convolutional Neural Networks](#convolutional-neural-networks)
- * [Reinforcement Learning](#Reinforcement-Learning)
- * [Machine Learning](#Machine-Learning)
- * [Generative Adversarial Networks](#Generative-Adversarial-Networks)
+ * [Reinforcement Learning](#reinforcement-learning)
+ * [Machine Learning](#machine learning)
+ * [Generative Adversarial Networks](#generative-adversarial-networks)
   
 ***
 
