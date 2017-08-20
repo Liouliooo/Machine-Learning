@@ -1,13 +1,13 @@
 # <center>一叶扁舟</center>
 
-**计算机视觉、强化学习、自然语言处理**等等来自**机器学习**和**人工智能**领域的一些 ** *论文* **。
+**计算机视觉、强化学习、自然语言处理**等等来自**机器学习**和**人工智能**领域的一些 ***论文***。
 
 ##  目录
 
- * [Convolutional Neural Networks](#Convolutional Neural Networks)
- * [Reinforcement Learning](#Reinforcement Learning)
- * [Machine Learning](#Machine Learning)
- * [Generative Adversarial Networks](#Generative Adversarial Networks)
+ * [Convolutional Neural Networks](#Convolutional-Neural-Networks)
+ * [Reinforcement Learning](#Reinforcement-Learning)
+ * [Machine Learning](#Machine-Learning)
+ * [Generative Adversarial Networks](#Generative-Adversarial-Networks)
   
 ***
 
