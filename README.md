@@ -102,8 +102,9 @@
 ### Reinforcement Learning 
 
 - *Deterministic policy gradient algorithms.* ICML 14. [[PDF]](http://proceedings.mlr.press/v32/silver14.pdf)
-##
+- *Reinforcement learning improves behaviour from evaluative feedback.* Nature 2015.  [[Link]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14540.html)
 
+##
 
 #### Deep Reinforcement Learning
 
