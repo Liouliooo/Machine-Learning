@@ -4,7 +4,6 @@
 
 --- ---
 
-
 ##  目录
 
 * ### [Machine Learning](#machine-learning)
@@ -15,8 +14,6 @@
 
 * ### [Deep Learning](#deep-learning)
 
-
-  
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Object Detection](#object-detection)
@@ -25,10 +22,11 @@
 * ### [Reinforcement Learning](#reinforcement-learning)
 
 * ### [Natural Language Processing](#natural-Language-processing)
-  
+
 * ### [Generative Adversarial Networks](#generative-adversarial-networks)
 
 * ### [Probabilistic Graphical Model](#probabilistic-graphical-model)
+
 --- ---
 
 ### Machine Learning
@@ -57,9 +55,7 @@
 
 #### Object Detection
 
-
 #### Image Semantic Segmentation
-
 
 --- ---
 
@@ -83,7 +79,5 @@
 ##
 
 
-
 --- ---
-
 
