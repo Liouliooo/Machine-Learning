@@ -34,11 +34,13 @@
 ### Machine Learning
 
 #### Supervised Learning
-- *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
-- *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
-- *Do we need hundreds of classifiers to solve real world classification problems?* JMLR 2014. [[PDF](http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)]
+- *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI, 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
+- *XGBoost:A Scalable Tree Boosting System.* SIGKDD, 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
+- *Do we need hundreds of classifiers to solve real world classification problems?* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
+- *Using Random Forest to Learn Imbalanced Data.* JMLR, 2004. [[PDF]](http://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf)
 
 #### Unsupervised Learning
+- *A Comprehensive Survey of Clustering Algorithms.* Annals of Data Science, 2015.
 
 #### Semi-Supervised Learning
 
