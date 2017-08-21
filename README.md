@@ -61,7 +61,7 @@
 - *Aggregated Residual Transformations for Deep Neural Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1611.05431.pdf)
 - *Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.* AAAI 2017. [[PDF]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311)
 - *Densely Connected Convolutional Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1608.06993.pdf)
-- * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.* ICLR 2016. [[PDF]](https://arxiv.org/pdf/1602.07360.pdf)
+- *SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size.* ICLR 2016. [[PDF]](https://arxiv.org/pdf/1602.07360.pdf)
 - *Deep Residual Learning for Image Recognition.* CVPR 2016. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - *Rethinking the Inception Architecture for Computer Vision.* CVPR 2016. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
 - *Identity mappings in deep residual networks.* ECCV 2016. [[PDF]](https://arxiv.org/pdf/1603.05027.pdf)
