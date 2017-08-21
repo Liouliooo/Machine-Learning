@@ -77,7 +77,6 @@
 - *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 1998. [[PDF]](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf)
 
 #### Object Detection
-
 - *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
 - *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.* IEEE T PATTERN ANAL, 2017. [[PDF]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 - *YOLO9000: Better, Faster, Stronger.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1612.08242.pdf)
@@ -90,6 +89,11 @@
 - *Segmentation as selective search for object recognition.* ICCV 2011. [[PDF]](https://www.researchgate.net/profile/Jasper_Uijlings/publication/261261522_Segmentation_as_selective_search_for_object_recognition/links/53d1063f0cf2fd75bc5d5d6f.pdf)
 
 #### Image Semantic Segmentation
+- *DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.* IEEE T PATTERN ANAL, 2017. [[PDF]](https://arxiv.org/pdf/1606.00915v2.pdf)
+- *SegNet: A Deep Convolutional Encoder-Decoder Architecture for Scene Segmentation.* IEEE T PATTERN ANAL 2017. [[PDF]](https://arxiv.org/pdf/1511.00561.pdf)
+- *Learning Deconvolution Network for Semantic Segmentation.* ICCV 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+- *Fully Convolutional Networks for Semantic Segmentation.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+- *Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.* Computer Science, 2014.[[PDF]](https://arxiv.org/pdf/1412.7062.pdf)
 
 --- ---
 
