@@ -12,6 +12,10 @@
   - [Unsupervised Learning](#unsupervised-learning)
   - [Semi-Supervised Learning](#semi-supervised-learning)
   - [Transfer Learning](#transfer-learning)
+
+* ### [Deep Learning](#deep-learning)
+  - [Practical Technology](#practical-technology)
+  - [Neural Network Visualization](#neural-network-visualization)
   
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
@@ -23,7 +27,8 @@
 * ### [Natural Language Processing](#natural-Language-processing)
   
 * ### [Generative Adversarial Networks](#generative-adversarial-networks)
-  
+
+* ###[Probabilistic Graphical Model](#probabilistic-graphical-model)
 --- ---
 
 ### Machine Learning
@@ -36,6 +41,14 @@
 #### Semi-Supervised Learning
 
 #### Transfer Learning
+
+--- ---
+
+### Deep Learning
+##
+#### Practical Technology
+
+#### Neural Network Visualization
 
 --- ---
 
@@ -55,13 +68,23 @@
 
 ### Reinforcement Learning 
 ##
+
 --- ---
 
 ### Natural Language Processing
 ##
+
 --- ---
 
 ### Generative Adversarial Networks
 ##
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
+
+--- ---
+
+### Probabilistic Graphical Model
+##
+
+--- ---
+
 
