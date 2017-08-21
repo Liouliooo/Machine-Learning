@@ -4,12 +4,12 @@
 
 ##  目录
 
- * ### [Machine Learning](#machine-learning)
-   - [Supervised Learning](#supervised-learning)
-   - [Unsupervised Learning](#unsupervised-learning)
+* ### [Machine Learning](#machine-learning)
+- [Supervised Learning](#supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
    
- * ### [Computer Vision](#computer-vision)
-   - [Convolutional Neural Networks](#convolutional-neural-networks)
+* ### [Computer Vision](#computer-vision)
+ - [Convolutional Neural Networks](#convolutional-neural-networks)
    
  * ### [Reinforcement Learning](#reinforcement-learning)
  
@@ -30,7 +30,7 @@
 ---
 
 ### Computer Vision
-
+##
 #### Convolutional Neural Networks
 
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
