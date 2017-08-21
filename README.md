@@ -10,7 +10,7 @@
 * ### [Machine Learning](#machine-learning)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
-   
+  - [Semi-Supervised Learning](#semi--supervise-learning)
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Object Detection](#object-detection)
@@ -30,6 +30,8 @@
 - *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
 
 #### Unsupervised Learning
+
+#### Semi-Supervised Learning
 
 --- ---
 
