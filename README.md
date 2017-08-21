@@ -13,7 +13,7 @@
    
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
-    - [Object Detection](#object-detection)
+  - [Object Detection](#object-detection)
   - [Image Semantic Segmentation](#image-semantic-segmentation)
 
 * ### [Reinforcement Learning](#reinforcement-learning)
