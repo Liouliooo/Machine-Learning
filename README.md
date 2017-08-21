@@ -78,6 +78,14 @@
 
 #### Object Detection
 
+- *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
+- *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.* IEEE T PATTERN ANAL, 2017. [[PDF]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
+- *YOLO9000: Better, Faster, Stronger.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1612.08242.pdf)
+- *You Only Look Once: Unified, Real-Time Object Detection.* CVPR 2016. [[PDF]](http://101.96.8.164/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+- *SSD: Single Shot MultiBox Detector.* ECCV 2016. [[PDF]](https://arxiv.org/pdf/1512.02325.pdf)
+- *Fast R-CNN.* ICCV 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+- *Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.* ECCV 2014. [[PDF]](https://arxiv.org/pdf/1406.4729.pdf)
+- *Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.* CVPR 2014. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) 
 - *Selective search for object recognition.* IJCV 2013. [[PDF]](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
 - *Segmentation as selective search for object recognition.* ICCV 2011. [[PDF]](https://www.researchgate.net/profile/Jasper_Uijlings/publication/261261522_Segmentation_as_selective_search_for_object_recognition/links/53d1063f0cf2fd75bc5d5d6f.pdf)
 
