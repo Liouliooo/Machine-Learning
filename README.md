@@ -48,6 +48,7 @@
 - *Clustering by fast search and find of density peaks.* Science 2014. [[Link]](http://science.sciencemag.org/content/344/6191/1492.long)
 - *A survey on feature selection methods.* Computers & Electrical Engineering, 2014. [[PDF]](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Chandrashekar%20-%20Feature%20Selection%20Methods%20-%202014.pdf)
 - *A Survey of Monte Carlo Tree Search Methods.* TCIAG 2012. [[PDF]](https://www.researchgate.net/profile/Diego_Perez2/publication/235985858_A_Survey_of_Monte_Carlo_Tree_Search_Methods/links/0046352723c772ecd9000000/A-Survey-of-Monte-Carlo-Tree-Search-Methods.pdf)
+- *On spectral clustering: analysis and an algorithm.* NIPS 2001. [[PDF]](http://www.cs.cornell.edu/courses/cs6780/2009fa/materials/nips01-spectral.pdf)
 
 #### Semi-Supervised Learning
 
