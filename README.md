@@ -43,6 +43,7 @@
 
 #### Unsupervised Learning
 - *A Comprehensive Survey of Clustering Algorithms.* Annals of Data Science, 2015. [[PDF]](http://download.springer.com/static/pdf/119/art%253A10.1007%252Fs40745-015-0040-1.pdf?originUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs40745-015-0040-1&token2=exp=1503295146~acl=%2Fstatic%2Fpdf%2F119%2Fart%25253A10.1007%25252Fs40745-015-0040-1.pdf%3ForiginUrl%3Dhttps%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs40745-015-0040-1*~hmac=c28bdc95d7e4fc720ada8fb65d8f3c431d1bd0132a5d33d91bd8d620fbb66864)
+- *A survey on feature selection methods.* Computers & Electrical Engineering, 2014. [[PDF]](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Chandrashekar%20-%20Feature%20Selection%20Methods%20-%202014.pdf)
 
 #### Semi-Supervised Learning
 - *Constrained k-means clustering with background knowledge.* ICML 2001. [[PDF]](https://web.cse.msu.edu/~cse802/notes/ConstrainedKmeans.pdf)
