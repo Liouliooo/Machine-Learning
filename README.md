@@ -32,6 +32,7 @@
 --- ---
 
 ### Machine Learning
+##
 
 #### Supervised Learning
 - *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
@@ -51,11 +52,12 @@
 --- ---
 
 ### Deep Learning
-
+##
 
 --- ---
 
 ### Computer Vision
+##
 
 #### Convolutional Neural Networks
 - *Aggregated Residual Transformations for Deep Neural Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1611.05431.pdf)
@@ -76,28 +78,31 @@
 
 #### Object Detection
 
+- *Selective search for object recognition.* IJCV 2013. [[PDF]](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
+- *Segmentation as selective search for object recognition.* ICCV 2011. [[PDF]](https://www.researchgate.net/profile/Jasper_Uijlings/publication/261261522_Segmentation_as_selective_search_for_object_recognition/links/53d1063f0cf2fd75bc5d5d6f.pdf)
+
 #### Image Semantic Segmentation
 
 --- ---
 
 ### Reinforcement Learning 
-
+##
 
 --- ---
 
 ### Natural Language Processing
-
+##
 
 --- ---
 
 ### Generative Adversarial Networks
-
+##
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
 
 --- ---
 
 ### Probabilistic Graphical Model
-
+##
 
 #### Bayesian Network
 
