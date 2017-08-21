@@ -14,8 +14,8 @@
   - [Transfer Learning](#transfer-learning)
 
 * ### [Deep Learning](#deep-learning)
-  - [Practical Technology](#practical-technology)
-  - [Neural Network Visualization](#neural-network-visualization)
+
+
   
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
@@ -28,7 +28,7 @@
   
 * ### [Generative Adversarial Networks](#generative-adversarial-networks)
 
-* ###[Probabilistic Graphical Model](#probabilistic-graphical-model)
+* ### [Probabilistic Graphical Model](#probabilistic-graphical-model)
 --- ---
 
 ### Machine Learning
@@ -46,9 +46,6 @@
 
 ### Deep Learning
 ##
-#### Practical Technology
-
-#### Neural Network Visualization
 
 --- ---
 
