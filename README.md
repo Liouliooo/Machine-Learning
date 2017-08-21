@@ -45,6 +45,7 @@
 #### Unsupervised Learning
 
 - *A Comprehensive Survey of Clustering Algorithms.* Annals of Data Science, 2015. [[PDF]](http://download.springer.com/static/pdf/119/art%253A10.1007%252Fs40745-015-0040-1.pdf?originUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs40745-015-0040-1&token2=exp=1503295146~acl=%2Fstatic%2Fpdf%2F119%2Fart%25253A10.1007%25252Fs40745-015-0040-1.pdf%3ForiginUrl%3Dhttps%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs40745-015-0040-1*~hmac=c28bdc95d7e4fc720ada8fb65d8f3c431d1bd0132a5d33d91bd8d620fbb66864)
+- *Clustering by fast search and find of density peaks.* Science 2014. [[Link]](http://science.sciencemag.org/content/344/6191/1492.long)
 - *A survey on feature selection methods.* Computers & Electrical Engineering, 2014. [[PDF]](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Chandrashekar%20-%20Feature%20Selection%20Methods%20-%202014.pdf)
 - *A Survey of Monte Carlo Tree Search Methods.* TCIAG 2012. [[PDF]](https://www.researchgate.net/profile/Diego_Perez2/publication/235985858_A_Survey_of_Monte_Carlo_Tree_Search_Methods/links/0046352723c772ecd9000000/A-Survey-of-Monte-Carlo-Tree-Search-Methods.pdf)
 
