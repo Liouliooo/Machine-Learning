@@ -21,9 +21,9 @@
 
 * ### [Reinforcement Learning](#reinforcement-learning)
 
-* ### [Generative Adversarial Networks](#generative-adversarial-networks)
+* ### [Natural Language Processing](#natural-language-processing)
 
-* ### [Natural Language Processing](#natural-Language-processing)
+* ### [Generative Adversarial Networks](#generative-adversarial-networks)
 
 * ### [Probabilistic Graphical Model](#probabilistic-graphical-model)
 
@@ -64,15 +64,14 @@
 
 --- ---
 
-### Generative Adversarial Networks
+### Natural Language Processing
 ##
-- *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
 
 --- ---
 
-
-### Natural Language Processing
+### Generative Adversarial Networks
 ##
+- *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
 
 --- ---
 
