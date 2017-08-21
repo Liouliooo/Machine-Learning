@@ -33,6 +33,7 @@
 
 #### Supervised Learning
 - *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
+- *Do we need hundreds of classifiers to solve real world classification problems?* JMLR 2014. [PDF](http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
 
 #### Unsupervised Learning
 
