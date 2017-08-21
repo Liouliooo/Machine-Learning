@@ -6,7 +6,7 @@
 
 ##  目录
 
-* ### [Machine Learning](#machine-learning)
+### [Machine Learning](#machine-learning)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
   - [Semi-Supervised Learning](#semi-supervised-learning)
