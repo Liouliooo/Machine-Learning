@@ -10,7 +10,7 @@
 * ### [Machine Learning](#machine-learning)
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
-  - [Semi-Supervised Learning](#semi-supervise-learning)
+  - [Semi-Supervised Learning](#semi-supervised-learning)
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Object Detection](#object-detection)
