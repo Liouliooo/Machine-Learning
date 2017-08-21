@@ -21,9 +21,9 @@
 
 ### Machine Learning
 
-#### Supervised Learning
+  #### Supervised Learning
 
-+ *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF](https://arxiv.org/pdf/1603.02754.pdf)]
+    + *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
 
 #### Unsupervised Learning
 
