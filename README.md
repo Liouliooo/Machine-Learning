@@ -26,6 +26,8 @@
 * ### [Generative Adversarial Networks](#generative-adversarial-networks)
 
 * ### [Probabilistic Graphical Model](#probabilistic-graphical-model)
+  - [Bayesian Network](#bayesian-network)
+  - [Markov Random Field](#markov-random-field)
 
 --- ---
 
@@ -79,6 +81,10 @@
 ### Probabilistic Graphical Model
 
 
+#### Bayesian Network
+
+
+#### Markov Random Field
 
 --- ---
 
