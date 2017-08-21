@@ -11,6 +11,8 @@
   - [Supervised Learning](#supervised-learning)
   - [Unsupervised Learning](#unsupervised-learning)
   - [Semi-Supervised Learning](#semi-supervised-learning)
+  - [Transfer Learning](#transfer-learning)
+  
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Object Detection](#object-detection)
@@ -32,6 +34,8 @@
 #### Unsupervised Learning
 
 #### Semi-Supervised Learning
+
+#### Transfer Learning
 
 --- ---
 
