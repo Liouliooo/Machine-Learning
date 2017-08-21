@@ -31,9 +31,7 @@
 
 ### Computer Vision
 
----
-
-#### Convolutional Neural Networks
+* #### Convolutional Neural Networks
 
 + *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
  
