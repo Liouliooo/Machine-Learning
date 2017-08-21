@@ -4,9 +4,11 @@
 
 ##  目录
 
+ * ### [Machine Learning](#machine-learning)
+  - Supervised Learning
  * [Convolutional Neural Networks](#convolutional-neural-networks)
  * [Reinforcement Learning](#reinforcement-learning)
- * ### [Machine Learning](#machine-learning)
+
  * [Generative Adversarial Networks](#generative-adversarial-networks)
   
 ***
