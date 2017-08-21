@@ -57,6 +57,12 @@
 ### Computer Vision
 
 #### Convolutional Neural Networks
+
+- *Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.* AAAI 2017. [[PDF]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311)
+- *Rethinking the Inception Architecture for Computer Vision.* CVPR 2016. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
+- *Very Deep Convolutional Networks for Large-Scale Image Recognition.* CVPR 2014. [[PDF]](https://arxiv.org/pdf/1409.1556/)
+- *Visualizing and Understanding Convolutional Networks.* ECCV 2014. [[PDF]](https://arxiv.org/pdf/1311.2901.pdf)
+- *Network In Network.* CVPR 2014 [[PDF]](https://arxiv.org/pdf/1312.4400.pdf)
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 #### Object Detection
