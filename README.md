@@ -43,6 +43,7 @@
 - *A Comprehensive Survey of Clustering Algorithms.* Annals of Data Science, 2015. [[PDF]](http://download.springer.com/static/pdf/119/art%253A10.1007%252Fs40745-015-0040-1.pdf?originUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs40745-015-0040-1&token2=exp=1503295146~acl=%2Fstatic%2Fpdf%2F119%2Fart%25253A10.1007%25252Fs40745-015-0040-1.pdf%3ForiginUrl%3Dhttps%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs40745-015-0040-1*~hmac=c28bdc95d7e4fc720ada8fb65d8f3c431d1bd0132a5d33d91bd8d620fbb66864)
 
 #### Semi-Supervised Learning
+- *Constrained k-means clustering with background knowledge.* ICML 2001. [[PDF]](https://web.cse.msu.edu/~cse802/notes/ConstrainedKmeans.pdf)
 
 #### Transfer Learning
 - *A Survey on Transfer Learning.* IEEE T KNOWL DATA EN, 2010 [[PDF]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
@@ -60,9 +61,12 @@
 
 - *Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.* AAAI 2017. [[PDF]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311)
 - *Rethinking the Inception Architecture for Computer Vision.* CVPR 2016. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
-- *Very Deep Convolutional Networks for Large-Scale Image Recognition.* CVPR 2014. [[PDF]](https://arxiv.org/pdf/1409.1556/)
+- *Identity mappings in deep residual networks.* ECCV 2016. [[PDF]](https://arxiv.org/pdf/1603.05027.pdf)
+- *Going Deeper With Convolutions.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+- *Highway networks.* ICML 2015. [[PDF]](https://arxiv.org/pdf/1505.00387.pdf,)
+- *Very Deep Convolutional Networks for Large-Scale Image Recognition.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1409.1556/)
 - *Visualizing and Understanding Convolutional Networks.* ECCV 2014. [[PDF]](https://arxiv.org/pdf/1311.2901.pdf)
-- *Network In Network.* CVPR 2014 [[PDF]](https://arxiv.org/pdf/1312.4400.pdf)
+- *Network In Network.* ICLR 2014. [[PDF]](https://arxiv.org/pdf/1312.4400.pdf)
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 #### Object Detection
