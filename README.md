@@ -11,23 +11,23 @@
 * ### [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
    
- * ### [Reinforcement Learning](#reinforcement-learning)
- 
- * ### [Natural Language Processing](#natural-Language-processing)
-   
- * ### [Generative Adversarial Networks](#generative-adversarial-networks)
+* ### [Reinforcement Learning](#reinforcement-learning)
+
+* ### [Natural Language Processing](#natural-Language-processing)
   
-***
+* ### [Generative Adversarial Networks](#generative-adversarial-networks)
+  
+--- ---
 
 ### Machine Learning
 ## 
-#### Supervised Learning
+  #### Supervised Learning
 
-* *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
+    - *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
 
 #### Unsupervised Learning
 
----
+--- ---
 
 ### Computer Vision
 ##
@@ -35,15 +35,15 @@
 
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
----
+--- ---
 
 ### Reinforcement Learning 
 
----
+--- ---
 
 ### Natural Language Processing
 
----
+--- ---
 
 ### Generative Adversarial Networks
 
