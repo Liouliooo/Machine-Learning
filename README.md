@@ -48,12 +48,11 @@
 - *Clustering by fast search and find of density peaks.* Science 2014. [[Link]](http://science.sciencemag.org/content/344/6191/1492.long)
 - *A survey on feature selection methods.* Computers & Electrical Engineering, 2014. [[PDF]](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Chandrashekar%20-%20Feature%20Selection%20Methods%20-%202014.pdf)
 - *A Survey of Monte Carlo Tree Search Methods.* TCIAG 2012. [[PDF]](https://www.researchgate.net/profile/Diego_Perez2/publication/235985858_A_Survey_of_Monte_Carlo_Tree_Search_Methods/links/0046352723c772ecd9000000/A-Survey-of-Monte-Carlo-Tree-Search-Methods.pdf)
-- *K-Means with Large and Noisy Constraint Sets.* ECML 2007. [[PDF]](http://www.cs.cmu.edu/afs/cs/Web/People/dpelleg/download/lcvqe.pdf)
-- *Integrating constraints and metric learning in semi-supervised clustering.* International Conference, 2004. [[PDF]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2004_BilenkoBM04.pdf)
-
 
 #### Semi-Supervised Learning
 
+- *K-Means with Large and Noisy Constraint Sets.* ECML 2007. [[PDF]](http://www.cs.cmu.edu/afs/cs/Web/People/dpelleg/download/lcvqe.pdf)
+- *Integrating constraints and metric learning in semi-supervised clustering.* International Conference, 2004. [[PDF]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2004_BilenkoBM04.pdf)
 - *Constrained k-means clustering with background knowledge.* ICML 2001. [[PDF]](https://web.cse.msu.edu/~cse802/notes/ConstrainedKmeans.pdf)
 
 #### Transfer Learning
