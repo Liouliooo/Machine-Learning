@@ -6,7 +6,8 @@
 
  * ### [Machine Learning](#machine-learning)
    - [Supervised Learning](#supervised-learning)
- 
+   - [Unsupervised Learning](#unsupervised-learning)
+   
  * ### [Computer Vision](#computer-vision)
    - [Convolutional Neural Networks](#convolutional-neural-networks)
    
@@ -19,24 +20,20 @@
 ***
 
 ### Machine Learning
-  #### Supervised Learning
+  * #### Supervised Learning
    + *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
    
----
+  * #### Unsupervised Learning
 
 ### Computer Vision
   #### Convolutional Neural Networks
    + *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
  
----
 
 ### Reinforcement Learning 
 
----
 
 ### Natural Language Processing
-
----
 
 ### Generative Adversarial Networks
  * *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
