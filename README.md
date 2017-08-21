@@ -43,12 +43,12 @@
 --- ---
 
 ### Deep Learning
-##
+## 
 
 --- ---
 
 ### Computer Vision
-##
+## 
 #### Convolutional Neural Networks
 
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
@@ -60,23 +60,23 @@
 --- ---
 
 ### Reinforcement Learning 
-##
+## 
 
 --- ---
 
 ### Natural Language Processing
-##
+## 
 
 --- ---
 
 ### Generative Adversarial Networks
-##
+## 
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
 
 --- ---
 
 ### Probabilistic Graphical Model
-##
+## 
 
 
 --- ---
