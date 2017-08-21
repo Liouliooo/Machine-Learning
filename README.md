@@ -20,7 +20,7 @@
 ***
 
 ### Machine Learning
-----
+------
 #### Supervised Learning
 
 * *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
@@ -49,13 +49,3 @@
 
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
 
-
-
-
-
-## Applications
-
-### Natural Language Processing
-
-#### Language Modeling
-* Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan "Honza" Cernocky, Sanjeev Khudanpur, *Recurrent Neural Network based Language Model*, Interspeech 2010 [[Paper](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)]
