@@ -34,13 +34,13 @@
 ### Machine Learning
 
 #### Supervised Learning
-- *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI, 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
-- *XGBoost:A Scalable Tree Boosting System.* SIGKDD, 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
+- *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
+- *XGBoost:A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
 - *Do we need hundreds of classifiers to solve real world classification problems?* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
-- *Using Random Forest to Learn Imbalanced Data.* JMLR, 2004. [[PDF]](http://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf)
+- *Using Random Forest to Learn Imbalanced Data.* JMLR 2004. [[PDF]](http://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf)
 
 #### Unsupervised Learning
-- *A Comprehensive Survey of Clustering Algorithms.* Annals of Data Science, 2015.
+- *A Comprehensive Survey of Clustering Algorithms.* Annals of Data Science, 2015. [[PDF]](http://download.springer.com/static/pdf/119/art%253A10.1007%252Fs40745-015-0040-1.pdf?originUrl=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs40745-015-0040-1&token2=exp=1503295146~acl=%2Fstatic%2Fpdf%2F119%2Fart%25253A10.1007%25252Fs40745-015-0040-1.pdf%3ForiginUrl%3Dhttps%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs40745-015-0040-1*~hmac=c28bdc95d7e4fc720ada8fb65d8f3c431d1bd0132a5d33d91bd8d620fbb66864)
 
 #### Semi-Supervised Learning
 
