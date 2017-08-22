@@ -163,6 +163,10 @@
 --- ---
 
 ### Natural Language Processing
+
+- *Natural Language Processing: State of The Art, Current Trends and Challenges.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.05148.pdf)
+- *Recent Trends in Deep Learning Based Natural Language Processing.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.02709.pdf)
+
 ##
 
 --- ---
