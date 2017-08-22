@@ -15,6 +15,7 @@
 + [Deep Learning](#deep-learning)
   - [Practical Technology](#practical-technology)
   - [Activation Function](#activation-function)
+  - [Visualization](#visualization)
 
 + [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
@@ -83,6 +84,13 @@
 
 - *Noisy activation functions.* ICML 2016. [[PDF]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
 - *Deep sparse rectifier neural networks.* AISTATS 2011. [[PDF]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+
+#### Visualization
+
+- *Understanding Neural Networks Through Deep Visualization.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1506.06579.pdf)
+- *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.* Computer Science, 2013. [[PDF]](https://arxiv.org/pdf/1312.6034.pdf)
+- *Visualizing higher-layer features of a deep network.* University of Montreal, 2009. [[PDF]](http://igva2012.wikispaces.asu.edu/file/view/Erhan%202009%20Visualizing%20higher%20layer%20features%20of%20a%20deep%20network.pdf)
+
 --- ---
 
 ### Computer Vision
