@@ -1,4 +1,4 @@
-# <center>一叶扁舟</center>
+# 一叶扁舟
 
 **计算机视觉、强化学习、自然语言处理**等等来自**机器学习**和**人工智能**领域的一些 ***论文***。
 
@@ -13,8 +13,8 @@
   - [Transfer Learning](#transfer-learning)
 
 + [Deep Learning](#deep-learning)
-  - [Activation Function](#activation-function)
   - [Practical Technology](#practical-technology)
+  - [Activation Function](#activation-function)
 
 + [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
@@ -68,11 +68,21 @@
 ### Deep Learning
 ##
 - *Deep learning.* Nature 2015. [[PDF]](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)
+- *Learning representations by back-propagating errors.* Nature 1986. [[PDF]](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
 #### Practical Technology
 
+- *Deep convolutional neural network design patterns.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.00847.pdf)
+- *Training very deep networks.*(Highway Networks) NIPS 2015.  [[PDF]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+- *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* ICML 2015. [[PDF]](http://proceedings.mlr.press/v37/ioffe15.pdf)
+- *Dropout: a simple way to prevent neural networks from overfitting.* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- *Improving neural networks by preventing co-adaptation of feature detectors.* Computer Science, 2012. [[PDF]](https://arxiv.org/pdf/1207.0580.pdf)
+- *Understanding the difficulty of training deep feedforward neural networks[C].* AISTATS 2010. [[PDF]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+
 #### Activation Function
 
+- *Noisy activation functions.* ICML 2016. [[PDF]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
+- *Deep sparse rectifier neural networks.* AISTATS 2011. [[PDF]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 --- ---
 
 ### Computer Vision
