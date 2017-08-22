@@ -13,6 +13,8 @@
   - [Transfer Learning](#transfer-learning)
 
 + [Deep Learning](#deep-learning)
+  - [Activation Function](#activation-function)
+  - [Practical Technology](#practical-technology)
 
 + [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
@@ -64,6 +66,11 @@
 
 ### Deep Learning
 ##
+- *Deep learning.* Nature 2015. [[PDF]](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)
+
+#### Practical Technology
+
+#### Activation Function
 
 --- ---
 
