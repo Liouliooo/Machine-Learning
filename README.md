@@ -79,7 +79,7 @@
 #### Practical Techniques
 
 - *Deep convolutional neural network design patterns.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.00847.pdf)
-- *Training very deep networks.*(Highway Networks) NIPS 2015.  [[PDF]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+- *Training very deep networks.* NIPS 2015.(Highway Networks) [[PDF]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* ICML 2015. [[PDF]](http://proceedings.mlr.press/v37/ioffe15.pdf)
 - *Dropout: a simple way to prevent neural networks from overfitting.* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - *Improving neural networks by preventing co-adaptation of feature detectors.* Computer Science, 2012. [[PDF]](https://arxiv.org/pdf/1207.0580.pdf)
