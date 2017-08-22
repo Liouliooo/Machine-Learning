@@ -16,6 +16,7 @@
   - [Practical Technology](#practical-technology)
   - [Activation Function](#activation-function)
   - [Visualization](#visualization)
+  - [Stack](#stack)
 
 + [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
@@ -91,6 +92,11 @@
 - *Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.* Computer Science, 2013. [[PDF]](https://arxiv.org/pdf/1312.6034.pdf)
 - *Visualizing higher-layer features of a deep network.* University of Montreal, 2009. [[PDF]](http://igva2012.wikispaces.asu.edu/file/view/Erhan%202009%20Visualizing%20higher%20layer%20features%20of%20a%20deep%20network.pdf)
 
+#### Stack
+
+- *A fast learning algorithm for deep belief nets.* Neural computation, 2006. [[PDF]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.2006.18.7.1527)
+- *Reducing the dimensionality of data with neural networks.* science 2006.(Milestone) [[PDF]](https://pdfs.semanticscholar.org/7d76/b71b700846901ac4ac119403aa737a285e36.pdf)
+
 --- ---
 
 ### Computer Vision
@@ -140,7 +146,7 @@
 
 ### Reinforcement Learning 
 
-- *Reinforcement learning improves behaviour from evaluative feedback.* Nature 2015.  [[Link]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14540.html)
+- *Reinforcement learning improves behaviour from evaluative feedback.* Nature 2015. [[Link]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14540.html)
 - *Deterministic policy gradient algorithms.* ICML 2014. [[PDF]](http://proceedings.mlr.press/v32/silver14.pdf)
 
 ##
