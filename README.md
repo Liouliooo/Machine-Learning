@@ -13,7 +13,7 @@
   - [Transfer Learning](#transfer-learning)
 
 + [Deep Learning](#deep-learning)
-  - [Practical Technology](#practical-technology)
+  - [Practical Techniques](#practical-techniques)
   - [Activation Function](#activation-function)
   - [Visualization](#visualization)
   - [Stack](#stack)
@@ -76,7 +76,7 @@
 - *Deep learning.* Nature 2015. [[PDF]](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)
 - *Learning representations by back-propagating errors.* Nature 1986. [[PDF]](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
-#### Practical Technology
+#### Practical Techniques
 
 - *Deep convolutional neural network design patterns.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.00847.pdf)
 - *Training very deep networks.*(Highway Networks) NIPS 2015.  [[PDF]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
