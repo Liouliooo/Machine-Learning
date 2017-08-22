@@ -94,7 +94,7 @@
 
 #### Stack
 
-- *A fast learning algorithm for deep belief nets.* Neural computation, 2006. [[PDF]](http://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.2006.18.7.1527)
+- *A fast learning algorithm for deep belief nets.* Neural computation, 2006. [[PDF]](http://www.cs.utoronto.ca/~osindero/PUBLICATIONS/HOT_NC05_fast_deep_nets.pdf)
 - *Reducing the dimensionality of data with neural networks.* science 2006.(Milestone) [[PDF]](https://pdfs.semanticscholar.org/7d76/b71b700846901ac4ac119403aa737a285e36.pdf)
 
 --- ---
