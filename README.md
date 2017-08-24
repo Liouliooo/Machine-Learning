@@ -34,6 +34,12 @@
   - [Bayesian Network](#bayesian-network)
   - [Markov Random Field](#markov-random-field)
 
+## Books
++ [Algorithm](#algorithm)
++ [Statistical Machine Learning](#statistical-machine-learning)
++ [Deep Learning](#deep-learning)
++ [Reinforcement Learning](#reinforcement-learning)
+  
 --- ---
 --- ---
 
@@ -200,3 +206,21 @@
 #### Markov Random Field
 
 --- ---
+--- ---
+
+### Algorithm
+
+#
+
+### Statistical Machine Learning
+
+#
+
+### Deep Learning
+
+#
+
+### Reinforcement Learning
+
+--- ---
+
