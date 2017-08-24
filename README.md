@@ -4,7 +4,7 @@
 
 --- ---
 
-##  目录
+##  contents
 
 + [Machine Learning](#machine-learning)
   - [Supervised Learning](#supervised-learning)
@@ -34,7 +34,7 @@
   - [Bayesian Network](#bayesian-network)
   - [Markov Random Field](#markov-random-field)
 
-## Books
+## [Books](#books)
 + [Algorithm](#algorithm)
 + [Statistical Machine Learning](#statistical-machine-learning)
 + [Deep Learning](#deep-learning)
@@ -207,6 +207,7 @@
 
 --- ---
 --- ---
+## Books
 
 ### Algorithm
 
