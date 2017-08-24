@@ -4,7 +4,7 @@
 
 --- ---
 
-##  contents
+##  Contents
 
 + [Machine Learning](#machine-learning)
   - [Supervised Learning](#supervised-learning)
@@ -35,6 +35,8 @@
   - [Markov Random Field](#markov-random-field)
 
 ## [Books](#books)
++ [Computer Science](#computer-science)
++ [Mathematics](#mathematics)
 + [Algorithm](#algorithm)
 + [Statistical Machine Learning](#statistical-machine-learning)
 + [Deep Learning](#deep-learning)
@@ -208,6 +210,11 @@
 --- ---
 --- ---
 ## Books
+### Computer Science
+
+
+### Mathematics
+
 
 ### Algorithm
 
@@ -215,13 +222,24 @@
 
 ### Statistical Machine Learning
 
+- **Machine Learning: A Probabilistic Perspective.** MIT Press, 2012.
+- **Pattern Recognition and Machine Learning.** Springer, 2006.
+- **All of Statistics.** Springer New York, 2004.
+- **The Elements of Statistical Learning.** Springer, 2003.
+- **Pattern Classification(2nd Edition).** Wiley, 2001.
+
 #
 
 ### Deep Learning
 
+- **Deep Learning.** MIT Press, 2016.
+
 #
 
 ### Reinforcement Learning
+
+- **Reinforcement Learning:An Introduction.** MIT Press, 2005.
+- **Algorithms for Reinforcement Learning.** Morgan and Claypool Publishers, 2010.
 
 --- ---
 
