@@ -223,10 +223,10 @@
 ### Statistical Machine Learning
 
 - **Machine Learning: A Probabilistic Perspective.** MIT Press, 2012.
-- **Pattern Recognition and Machine Learning.** Springer, 2006.
-- **All of Statistics.** Springer New York, 2004.
-- **The Elements of Statistical Learning.** Springer, 2003.
-- **Pattern Classification(2nd Edition).** Wiley, 2001.
+- **Pattern Recognition and Machine Learning.** Springer 2006.
+- **All of Statistics.** Springer 2004.
+- **The Elements of Statistical Learning.** Springer 2003.
+- **Pattern Classification(2nd Edition).** Wiley 2001.
 
 #
 
@@ -238,7 +238,7 @@
 
 ### Reinforcement Learning
 
-- **Reinforcement Learning:An Introduction.** MIT Press, 2005.
+- **Reinforcement Learning: An Introduction.** MIT Press, 2005.
 - **Algorithms for Reinforcement Learning.** Morgan and Claypool Publishers, 2010.
 
 --- ---
