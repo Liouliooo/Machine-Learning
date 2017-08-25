@@ -240,8 +240,8 @@
 
 ### Reinforcement Learning
 
-- **Reinforcement Learning: An Introduction.** MIT Press, 2005.
 - **Algorithms for Reinforcement Learning.** Morgan and Claypool Publishers, 2010.
+- **Reinforcement Learning: An Introduction.** MIT Press, 2005.
 
 --- ---
 
