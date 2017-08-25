@@ -223,6 +223,7 @@
 
 ### Statistical Machine Learning
 
+- **统计学习方法.** 清华大学出版社 2012.
 - **Machine Learning: A Probabilistic Perspective.** MIT Press, 2012.
 - **Pattern Recognition and Machine Learning.** Springer 2006.
 - **All of Statistics.** Springer 2004.
