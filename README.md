@@ -34,7 +34,7 @@
   - [Bayesian Network](#bayesian-network)
   - [Markov Random Field](#markov-random-field)
 
-## [Books](#books)
+## Books
 + [Computer Science](#computer-science)
 + [Mathematics](#mathematics)
 + [Algorithm](#algorithm)
