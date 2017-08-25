@@ -41,8 +41,8 @@
 + [Mathematics](#mathematics)
 + [Algorithm](#algorithm)
 + [Statistical Machine Learning](#statistical-machine-learning)
-+ [Deep Learning](#deep-learning)
-+ [Reinforcement Learning](#reinforcement-learning)
++ [Deep Learning Books](#deep-learning-books)
++ [Reinforcement Learning Books](#reinforcement-learning-books)
   
 --- ---
 --- ---
@@ -234,13 +234,13 @@
 
 #
 
-### Deep Learning
+### Deep Learning Books
 
 - **Deep Learning.** MIT Press, 2016.
 
 #
 
-### Reinforcement Learning
+### Reinforcement Learning Books
 
 - **Algorithms for Reinforcement Learning.** Morgan and Claypool Publishers, 2010.
 - **Reinforcement Learning: An Introduction.** MIT Press, 2005.
