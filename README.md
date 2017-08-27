@@ -39,7 +39,6 @@
 ## Books
 + [Computer Science](#computer-science)
 + [Mathematics](#mathematics)
-+ [Algorithm](#algorithm)
 + [Statistical Machine Learning](#statistical-machine-learning)
 + [Deep Learning Books](#deep-learning-books)
 + [Reinforcement Learning Books](#reinforcement-learning-books)
@@ -215,12 +214,13 @@
 ## Books
 ### Computer Science
 
+- **计算机程序设计艺术.** 
+- **算法导论（第3版）.** 机械工业出版社 2012.
+- **算法.** 人民邮电出版社 2012.
+
+#
 
 ### Mathematics
-
-
-### Algorithm
-
 #
 
 ### Statistical Machine Learning
