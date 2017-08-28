@@ -164,7 +164,7 @@
 
 - *Reinforcement learning improves behaviour from evaluative feedback.* Nature 2015. [[Link]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14540.html)
 - *Deterministic policy gradient algorithms.* ICML 2014. [[PDF]](http://proceedings.mlr.press/v32/silver14.pdf)
-- *Reinforcement learning in robotics: A survey.* IJRR 2013. [[PDF]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2134&context=robotics)
+- *Reinforcement learning in robotics: A survey.* IJRR 2013. [[PDF]](https://pdfs.semanticscholar.org/b13f/191aef22f4e2dc95d3ac9f2eed0da56cceb6.pdf)
 
 ##
 
