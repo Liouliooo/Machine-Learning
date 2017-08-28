@@ -133,6 +133,7 @@
 - *Visualizing and Understanding Convolutional Networks.* ECCV 2014. [[PDF]](https://arxiv.org/pdf/1311.2901.pdf)
 - *Network In Network.* ICLR 2014. [[PDF]](https://arxiv.org/pdf/1312.4400.pdf)
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+- *A theoretical analysis of feature pooling in visual recognition.* ICML 2010. [[PDF]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_BoureauPL10.pdf)
 - *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 1998. [[PDF]](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf)
 
 #### Object Detection
@@ -163,6 +164,7 @@
 
 - *Reinforcement learning improves behaviour from evaluative feedback.* Nature 2015. [[Link]](http://www.nature.com/nature/journal/v521/n7553/abs/nature14540.html)
 - *Deterministic policy gradient algorithms.* ICML 2014. [[PDF]](http://proceedings.mlr.press/v32/silver14.pdf)
+- *Reinforcement learning in robotics: A survey.* IJRR 2013. [[PDF]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2134&context=robotics)
 
 ##
 
