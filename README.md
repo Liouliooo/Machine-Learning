@@ -233,6 +233,11 @@
 #
 
 ### Mathematics
+
+- **凸优化.(Convex Optimization)** 清华大学出版社 2013.
+- **数理统计学简史.** 湖南教育出版社 2012.
+- **概率论与数理统计.** 中国科学技术大学出版社 2009.
+
 #
 
 ### Statistical Machine Learning
