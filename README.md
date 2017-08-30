@@ -206,6 +206,10 @@
 --- ---
 
 ### Probabilistic Graphical Model
+
+- *Graphical Models.* Statistical Science, 2004. [[PDF]](https://www.researchgate.net/publication/38326991_Graphical_Models)
+- *An introduction to graphical models.* 1997. [[PDF]](http://www.seas.upenn.edu/~mkearns/papers/barbados/jordan-tut.pdf)
+
 ##
 
 #### Bayesian Network
