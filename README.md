@@ -218,6 +218,9 @@
 
 #### Markov Random Field
 
+- *Conditional random fields: An introduction.* Technical Reports, 2004. [[PDF]](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1011&context=cis_reports)
+- *Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data.* ICML 2001. [[PDF]](http://www2.denizyuret.com/ref/lafferty/crf.pdf)
+
 --- ---
 --- ---
 ## Books
