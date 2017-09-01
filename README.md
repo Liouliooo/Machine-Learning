@@ -100,6 +100,7 @@
 #### Activation Function
 
 - *Noisy activation functions.* ICML 2016. [[PDF]](http://proceedings.mlr.press/v48/gulcehre16.pdf)
+- *Maxout Networks.* Computer Science, 2013. [[PDF]](https://arxiv.org/pdf/1302.4389.pdf)
 - *Deep sparse rectifier neural networks.* AISTATS 2011. [[PDF]](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 
 #### Visualization
@@ -120,6 +121,7 @@
 
 #### Convolutional Neural Networks
 
+- *Deformable Convolutional Networks.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06211.pdf)
 - *Xception: Deep Learning with Depthwise Separable Convolutions.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1610.02357.pdf)
 - *Aggregated Residual Transformations for Deep Neural Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1611.05431.pdf)
 - *Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.* AAAI 2017. [[PDF]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311)
