@@ -130,6 +130,7 @@
 - *Deep Residual Learning for Image Recognition.* CVPR 2016. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 - *Rethinking the Inception Architecture for Computer Vision.* CVPR 2016. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf)
 - *Identity mappings in deep residual networks.* ECCV 2016. [[PDF]](https://arxiv.org/pdf/1603.05027.pdf)
+- *Spatial transformer networks.* NIPS 2015. [[PDF]](https://arxiv.org/pdf/1506.02025.pdf)
 - *Convolutional Neural Networks at Constrained Time Cost.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/He_Convolutional_Neural_Networks_2015_CVPR_paper.pdf)
 - *Going Deeper With Convolutions.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 - *Highway networks.* ICML 2015. [[PDF]](https://arxiv.org/pdf/1505.00387.pdf,)
