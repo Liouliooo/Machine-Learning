@@ -40,6 +40,7 @@
 
 ## Books
 + [Computer Science](#computer-science)
++ [Software Engineering](#software-engineering)
 + [Mathematics](#mathematics)
 + [Statistical Machine Learning](#statistical-machine-learning)
 + [Deep Learning Books](#deep-learning-books)
@@ -229,6 +230,11 @@
 - **计算机程序设计艺术.** 
 - **算法导论(第3版).** 机械工业出版社 2012.
 - **算法.** 人民邮电出版社 2012.
+
+#
+
+### Software Engineering
+
 
 #
 
