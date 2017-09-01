@@ -235,6 +235,7 @@
 
 ### Software Engineering
 
+- **Software Architecture Patterns.** O'Reilly 2015. [[PDF]](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 - **代码大全(第2版).** 电子工业出版社 2006.
 - **重构:改善既有代码的设计.** 中国电力出版社 2003.
 - **人月神话.** 清华大学出版社 2002.
