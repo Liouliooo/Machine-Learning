@@ -120,6 +120,7 @@
 
 #### Convolutional Neural Networks
 
+- *Xception: Deep Learning with Depthwise Separable Convolutions.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1610.02357.pdf)
 - *Aggregated Residual Transformations for Deep Neural Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1611.05431.pdf)
 - *Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.* AAAI 2017. [[PDF]](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14806/14311)
 - *Densely Connected Convolutional Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1608.06993.pdf)
