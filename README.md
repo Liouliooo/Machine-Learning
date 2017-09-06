@@ -91,7 +91,6 @@
 #### Practical Techniques
 
 - *Deep convolutional neural network design patterns.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.00847.pdf)
-- *Training very deep networks.* NIPS 2015.(Highway Networks) [[PDF]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* ICML 2015. [[PDF]](http://proceedings.mlr.press/v37/ioffe15.pdf)
 - *Dropout: a simple way to prevent neural networks from overfitting.* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - *Improving neural networks by preventing co-adaptation of feature detectors.* Computer Science, 2012. [[PDF]](https://arxiv.org/pdf/1207.0580.pdf)
@@ -134,6 +133,7 @@
 - *Convolutional Neural Networks at Constrained Time Cost.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/He_Convolutional_Neural_Networks_2015_CVPR_paper.pdf)
 - *Going Deeper With Convolutions.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 - *Highway networks.* ICML 2015. [[PDF]](https://arxiv.org/pdf/1505.00387.pdf,)
+- *Training very deep networks.* NIPS 2015.(Highway Networks) [[PDF]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - *Very Deep Convolutional Networks for Large-Scale Image Recognition.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1409.1556/)
 - *Visualizing and Understanding Convolutional Networks.* ECCV 2014. [[PDF]](https://arxiv.org/pdf/1311.2901.pdf)
 - *Network In Network.* ICLR 2014. [[PDF]](https://arxiv.org/pdf/1312.4400.pdf)
