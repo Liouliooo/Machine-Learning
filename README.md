@@ -85,6 +85,7 @@
 
 ### Deep Learning
 ##
+- *Deep learning: Technical introduction.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1709.01412.pdf)
 - *Deep learning.* Nature 2015. [[PDF]](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)
 - *Learning representations by back-propagating errors.* Nature 1986. [[PDF]](http://www.cs.toronto.edu/~hinton/absps/naturebp.pdf)
 
