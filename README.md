@@ -195,8 +195,6 @@
 
 #### Long Short Term Memory
 
-##
-
 --- ---
 
 ### Natural Language Processing
