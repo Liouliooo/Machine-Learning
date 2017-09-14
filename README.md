@@ -28,6 +28,9 @@
 + [Reinforcement Learning](#reinforcement-learning)
   - [Deep Reinforcement Learning](#deep-reinforcement-learning)
 
++ [Recurrent Neural Networks](#recurrent-neural-networks) 
+  - [Long Short Term Memory](#long-short-term-memory)
+  
 + [Natural Language Processing](#natural-language-processing)
 
 + [Generative Adversarial Networks](#generative-adversarial-networks)
@@ -184,6 +187,15 @@
 - *Human-level control through deep reinforcement learning.* Nature 2015. [[PDF]](http://www.davidqiu.com:8888/research/nature14236.pdf)
 - *Move Evaluation in Go Using Deep Convolutional Neural Networks.* Computer Science, 2015.(Game Go) [[PDF]](https://arxiv.org/pdf/1412.6564.pdf)
 - *Playing Atari with Deep Reinforcement Learning.* Computer Science, 2013. [[PDF]](https://arxiv.org/pdf/1312.5602.pdf)
+
+--- ---
+
+### Recurrent Neural Networks
+##
+
+#### Long Short Term Memory
+
+##
 
 --- ---
 
