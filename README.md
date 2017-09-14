@@ -195,6 +195,8 @@
 
 #### Long Short Term Memory
 
+- *Long short-term memory.* Neural Computation, 1997. [[PDF]](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
+
 --- ---
 
 ### Natural Language Processing
