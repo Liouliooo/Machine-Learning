@@ -54,6 +54,7 @@
 
 ### Machine Learning
 
+- *A Brief Introduction to Machine Learning for Engineers.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1709.02840.pdf)
 - *Probabilistic machine learning and artificial intelligence.* Nature 2015. [[PDF]](https://www.cse.iitk.ac.in/users/piyush/courses/pml_winter16/nature14541.pdf)
 
 ##
@@ -162,6 +163,7 @@
 
 #### Image Semantic Segmentation
 
+- *Stacked Deconvolutional Network for Semantic Segmentation.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.04943.pdf)
 - *DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1606.00915v2.pdf)
 - *SegNet: A Deep Convolutional Encoder-Decoder Architecture for Scene Segmentation.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1511.00561.pdf)
 - *Learning Deconvolution Network for Semantic Segmentation.* ICCV 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
