@@ -266,6 +266,7 @@
 ### Mathematics
 
 - **矩阵分析与应用(第2版).** 清华大学出版社 2014.
+- **随机过程(原书第二版).** 机械工业出版社 2013.
 - **凸优化(Convex Optimization).** 清华大学出版社 2013.
 - **The Matrix Cookbook.** Technical University of Denmark, 2012. [[PDF]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 - **数理统计学简史.** 湖南教育出版社 2012.
