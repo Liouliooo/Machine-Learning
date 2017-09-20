@@ -150,6 +150,7 @@
 
 ##### Transposed Convolution Networks
 - *A guide to convolution arithmetic for deep learning.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1603.07285.pdf)
+- *Adaptive deconvolutional networks for mid and high level feature learning.* ICCV 2011. [[PDF]](http://cs.nyu.edu/~fergus/drafts/deconv_iccv_names.pdf)
 
 
 #### Object Detection
