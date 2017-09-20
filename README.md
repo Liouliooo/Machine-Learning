@@ -22,6 +22,7 @@
 
 + [Computer Vision](#computer-vision)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
+    + [Transposed Convolution Networks](#transposed-convolution-networks)
   - [Object Detection](#object-detection)
   - [Image Semantic Segmentation](#image-semantic-segmentation)
 
@@ -146,6 +147,9 @@
 - *ImageNet classification with deep convolutional neural networks.* NIPS 2012. [[PDF]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 - *A theoretical analysis of feature pooling in visual recognition.* ICML 2010. [[PDF]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_BoureauPL10.pdf)
 - *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 1998. [[PDF]](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf)
+
+##### Transposed Convolution Networks
+
 
 #### Object Detection
 
