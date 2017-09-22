@@ -40,6 +40,7 @@
   - [Bayesian Network](#bayesian-network)
   - [Markov Random Fields](#markov-random-fields)
 
++ [Art](#art)
 --- ---
 
 ## Books
@@ -248,6 +249,11 @@
 
 - *Conditional random fields: An introduction.* Technical Reports, 2004. [[PDF]](http://repository.upenn.edu/cgi/viewcontent.cgi?article=1011&context=cis_reports)
 - *Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data.* ICML 2001. [[PDF]](http://www2.denizyuret.com/ref/lafferty/crf.pdf)
+
+### Art
+
+- *Automatic Generation of Visual-Textual Presentation Layout.* ACM TMCCA 2016. [[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/a33-yang.pdf)
+- *A Neural Algorithm of Artistic Style.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1508.06576v1.pdf)
 
 --- ---
 --- ---
