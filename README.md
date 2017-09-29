@@ -63,6 +63,7 @@
 
 #### Supervised Learning
 
+- *AutoEncoder by Forest.* [[PDF]](https://arxiv.org/pdf/1709.09018.pdf)
 - *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
 - *XGBoost: A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
 - *Do we need hundreds of classifiers to solve real world classification problems?* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/delgado14a/delgado14a.pdf)
@@ -289,6 +290,8 @@
 
 ### Statistical Machine Learning
 
+- **机器学习.** 周志华 清华大学出版社 2016.
+- **Ensemble Methods.** CRC Press, 2012. [[PDF]](http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf)
 - **统计学习方法.** 清华大学出版社 2012.
 - **Machine Learning: A Probabilistic Perspective.** MIT Press, 2012.
 - **Pattern Recognition and Machine Learning.** Springer 2006.
