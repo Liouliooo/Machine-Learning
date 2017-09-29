@@ -290,8 +290,8 @@
 
 ### Statistical Machine Learning
 
-- **机器学习.** 周志华 清华大学出版社 2016.
-- **Ensemble Methods.** CRC Press, 2012. [[PDF]](http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf)
+- **机器学习.** 周志华, 清华大学出版社, 2016.
+- **Ensemble Methods.** Zhi-Hua Zhou, CRC Press, 2012. [[PDF]](http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf)
 - **统计学习方法.** 清华大学出版社 2012.
 - **Machine Learning: A Probabilistic Perspective.** MIT Press, 2012.
 - **Pattern Recognition and Machine Learning.** Springer 2006.
