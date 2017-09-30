@@ -29,6 +29,8 @@
 
 - [Computer Vision](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Computer%20Vision.md)
 
+- [Data Mining](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Data%20Mining.md)
+
 - [Generative Adversarial Networks](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Generative%20Adversarial%20Networks.md)
 
 - [Human-Machine Chess](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Human-Machine%20Chess.md)
