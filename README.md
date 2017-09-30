@@ -9,11 +9,11 @@
 ##  Contents
 
 ### Foundations
-[Books]()
+-[Books]()
 
-[Deep Learning]()
+-[Deep Learning]()
 
-[Machine Learning]()
+-[Machine Learning]()
 
 [Reinforcement Learning]()
 
@@ -21,11 +21,13 @@
 
 [Transfer Learning]()
 
+--- ---
+
 ### Domains
 
 [Art]()
 
-[Computer Vision](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Computer%20Vision.md)
+-[Computer Vision](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Computer%20Vision.md)
 
 [Generative Adversarial Networks]()
 
