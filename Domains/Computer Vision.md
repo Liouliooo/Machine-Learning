@@ -59,4 +59,3 @@
 - *Fully Convolutional Networks for Semantic Segmentation.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - *Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.* Computer Science, 2014.[[PDF]](https://arxiv.org/pdf/1412.7062.pdf)
 
---- ---
