@@ -3,7 +3,9 @@
 - [Natural Language Processing](#natural-language-processing)
 - [Recurrent Neural Networks](#recurrent-neural-networks) 
   + [Long Short Term Memory](#long-short-term-memory)
-  
+
+--- ---
+
 ## Natural Language Processing
 
 - *Natural Language Processing: State of The Art, Current Trends and Challenges.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.05148.pdf)
