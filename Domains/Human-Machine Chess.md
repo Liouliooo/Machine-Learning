@@ -1,5 +1,9 @@
 # Human-Machine Chess
 
+- [BackGammon](#backgammon)
+
+--- ---
+
 ## BackGammon
 
 - *Temporal difference learning and TD-Gammon.* Communications of the ACM, 1995. [[PDF]](http://cling.csd.uwo.ca/cs346a/extra/tdgammon.pdf)
