@@ -6,6 +6,8 @@
 - [Object Detection](#object-detection)
 - [Image Semantic Segmentation](#image-semantic-segmentation)
 
+--- ---
+
 ## Convolutional Neural Networks
 
 - *Deformable Convolutional Networks.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06211.pdf)
