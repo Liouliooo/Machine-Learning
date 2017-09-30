@@ -2,6 +2,8 @@
 
 - [Generative Adversarial Networks](#generative-adversarial-networks)
 
+--- ---
+
 ## Generative Adversarial Networks
 
 - *IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.* SIGIR 2017. [[PDF]](https://arxiv.org/pdf/1705.10513.pdf)
