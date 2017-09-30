@@ -4,7 +4,6 @@
   + [Supervised Learning](#supervised-learning)
   + [Unsupervised Learning](#unsupervised-learning)
   + [Semi-Supervised Learning](#semi-supervised-learning)
-  + [Transfer Learning](#transfer-learning)
   
 --- ---
 
@@ -36,8 +35,4 @@
 - *K-Means with Large and Noisy Constraint Sets.* ECML 2007. [[PDF]](http://www.cs.cmu.edu/afs/cs/Web/People/dpelleg/download/lcvqe.pdf)
 - *Integrating constraints and metric learning in semi-supervised clustering.* International Conference, 2004. [[PDF]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2004_BilenkoBM04.pdf)
 - *Constrained k-means clustering with background knowledge.* ICML 2001. [[PDF]](https://web.cse.msu.edu/~cse802/notes/ConstrainedKmeans.pdf)
-
-### Transfer Learning
-
-- *A Survey on Transfer Learning.* IEEE T KNOWL DATA EN, 2010 [[PDF]](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 
