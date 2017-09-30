@@ -1,17 +1,12 @@
 
-+ [Computer Vision](#computer-vision)
-  - [Convolutional Neural Networks](#convolutional-neural-networks)
-    + [Transposed Convolution Networks](#transposed-convolution-networks)
-  - [Object Detection](#object-detection)
-  - [Image Semantic Segmentation](#image-semantic-segmentation)
-  
-  
-  
-  
-### Computer Vision
-##
+# Computer Vision
 
-#### Convolutional Neural Networks
+- [Convolutional Neural Networks](#convolutional-neural-networks)
+  + [Transposed Convolution Networks](#transposed-convolution-networks)
+- [Object Detection](#object-detection)
+- [Image Semantic Segmentation](#image-semantic-segmentation)
+
+## Convolutional Neural Networks
 
 - *Deformable Convolutional Networks.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06211.pdf)
 - *Xception: Deep Learning with Depthwise Separable Convolutions.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1610.02357.pdf)
@@ -34,12 +29,12 @@
 - *A theoretical analysis of feature pooling in visual recognition.* ICML 2010. [[PDF]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_BoureauPL10.pdf)
 - *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 1998. [[PDF]](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf)
 
-##### Transposed Convolution Networks
+### Transposed Convolution Networks
 - *A guide to convolution arithmetic for deep learning.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1603.07285.pdf)
 - *Adaptive deconvolutional networks for mid and high level feature learning.* ICCV 2011. [[PDF]](http://cs.nyu.edu/~fergus/drafts/deconv_iccv_names.pdf)
 
 
-#### Object Detection
+## Object Detection
 
 - *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
 - *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.* TPAMI 2017. [[PDF]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
@@ -53,7 +48,7 @@
 - *Selective search for object recognition.* IJCV 2013. [[PDF]](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
 - *Segmentation as selective search for object recognition.* ICCV 2011. [[PDF]](https://www.researchgate.net/profile/Jasper_Uijlings/publication/261261522_Segmentation_as_selective_search_for_object_recognition/links/53d1063f0cf2fd75bc5d5d6f.pdf)
 
-#### Image Semantic Segmentation
+## Image Semantic Segmentation
 
 - *Stacked Deconvolutional Network for Semantic Segmentation.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.04943.pdf)
 - *DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1606.00915v2.pdf)
