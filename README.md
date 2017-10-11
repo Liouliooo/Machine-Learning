@@ -6,18 +6,6 @@
 
 --- ---
 
-## 一些别人总结的工作
-
-#### [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-#### [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-#### [awesome-rl](https://github.com/aikorea/awesome-rl)
-#### [awesome-rnn](https://github.com/kjw0612/awesome-rnn)
-#### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-#### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
-#### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
-
---- ---
-
 ##  Contents
 
 ### Foundations
@@ -50,3 +38,16 @@
 - [Natural Language Processing](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Natural%20Language%20Processing.md)
 
 - [Recommendation System](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Recommendation%20System.md)
+
+--- ---
+--- ---
+
+## 一些别人总结的工作
+
+#### [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+#### [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+#### [awesome-rl](https://github.com/aikorea/awesome-rl)
+#### [awesome-rnn](https://github.com/kjw0612/awesome-rnn)
+#### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+#### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+#### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
