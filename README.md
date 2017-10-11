@@ -6,6 +6,12 @@
 
 --- ---
 
+## 一些别人总结的工作
+### [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+
+--- ---
+
 ##  Contents
 
 ### Foundations
