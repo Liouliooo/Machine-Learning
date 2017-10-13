@@ -51,3 +51,8 @@
 #### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 #### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 #### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
+
+--- ---
+
+## 一些有意思的博客
+#### [Andrej Karpathy blog](http://karpathy.github.io/)
