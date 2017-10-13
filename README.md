@@ -56,3 +56,5 @@
 
 ## 一些有意思的博客
 #### [Andrej Karpathy blog](http://karpathy.github.io/)
+#### [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)
+
