@@ -68,7 +68,10 @@
 
 #### Computer Vision and Natural Language Processing
 
+- *What value do explicit high level concepts have in vision to language problems?.* CVPR 2016. [[PDF]](https://arxiv.org/pdf/1506.01144.pdf)
 - *Show and tell: A neural image caption generator.* CVPR 2015. [[PDF]](https://arxiv.org/pdf/1411.4555.pdf)
-
+- *Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1502.03044.pdf)
+- *From captions to visual concepts and back.* CVPR 2014. [[PDF]](https://arxiv.org/pdf/1411.4952.pdf)
+- *Guiding Long-Short Term Memory for Image Caption Generation.* ICCV 2015. [[PDF]](https://arxiv.org/pdf/1509.04942.pdf)
 
 
