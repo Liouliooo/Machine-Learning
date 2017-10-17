@@ -5,7 +5,7 @@
   + [Transposed Convolution Networks](#transposed-convolution-networks)
 - [Object Detection](#object-detection)
 - [Image Semantic Segmentation](#image-semantic-segmentation)
-- [Image Caption](#image-caption)
+- [Image Caption (CV and NLP)](#image-caption)
 --- ---
 
 ## Convolutional Neural Networks
