@@ -35,6 +35,7 @@
 - *A guide to convolution arithmetic for deep learning.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1603.07285.pdf)
 - *Adaptive deconvolutional networks for mid and high level feature learning.* ICCV 2011. [[PDF]](http://cs.nyu.edu/~fergus/drafts/deconv_iccv_names.pdf)
 
+--- ---
 
 ## Object Detection
 
@@ -50,6 +51,8 @@
 - *Selective search for object recognition.* IJCV 2013. [[PDF]](https://pdfs.semanticscholar.org/6a65/f9abad1022c7df2c75b819f48251aac23ae8.pdf)
 - *Segmentation as selective search for object recognition.* ICCV 2011. [[PDF]](https://www.researchgate.net/profile/Jasper_Uijlings/publication/261261522_Segmentation_as_selective_search_for_object_recognition/links/53d1063f0cf2fd75bc5d5d6f.pdf)
 
+--- ---
+
 ## Image Semantic Segmentation
 
 - *Stacked Deconvolutional Network for Semantic Segmentation.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.04943.pdf)
@@ -59,3 +62,6 @@
 - *Fully Convolutional Networks for Semantic Segmentation.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - *Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.* Computer Science, 2014.[[PDF]](https://arxiv.org/pdf/1412.7062.pdf)
 
+--- ---
+
+## 
