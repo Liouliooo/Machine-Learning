@@ -5,7 +5,7 @@
   + [Transposed Convolution Networks](#transposed-convolution-networks)
 - [Object Detection](#object-detection)
 - [Image Semantic Segmentation](#image-semantic-segmentation)
-- [Image Caption (CV and NLP)](#image-caption)
+- [Image Caption](#image-caption)
 --- ---
 
 ## Convolutional Neural Networks
@@ -64,7 +64,9 @@
 
 --- ---
 
-## Image Caption (CV and NLP)
+## Image Caption
+
+#### Computer Vision and Natural Language Processing
 
 - *Show and tell: A neural image caption generator.* CVPR 2015. [[PDF]](https://arxiv.org/pdf/1411.4555.pdf)
 
