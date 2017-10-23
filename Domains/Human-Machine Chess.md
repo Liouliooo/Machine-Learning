@@ -8,6 +8,7 @@
 ## BackGammon
 
 - *Temporal difference learning and TD-Gammon.* Communications of the ACM, 1995. [[PDF]](http://cling.csd.uwo.ca/cs346a/extra/tdgammon.pdf)
+- *TD-Gammon,a Self-Teaching Backgammon Program,Achieves Master-Level Play.* Neural Computation, 1994. [[PDF]](http://www.aaai.org/Papers/Symposia/Fall/1993/FS-93-02/FS93-02-003.pdf)
 - *Practical Issues in Temporal Difference Learning.* NIPS 1992. [[PDF]](http://papers.nips.cc/paper/465-practical-issues-in-temporal-difference-learning.pdf)
 
 ## Wei Qi
