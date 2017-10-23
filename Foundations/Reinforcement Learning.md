@@ -22,4 +22,4 @@
 - *Playing Atari with Deep Reinforcement Learning.* Computer Science, 2013. [[PDF]](https://arxiv.org/pdf/1312.5602.pdf)
 
 ### Inverse Reinforcement Learning
-- *Algorithms for inverse reinforcement learning.* ICML 2000 [[PDF]](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf)
+- *Algorithms for inverse reinforcement learning.* ICML 2000. [[PDF]](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf)
