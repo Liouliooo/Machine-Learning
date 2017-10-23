@@ -39,7 +39,7 @@
 
 - [Recommendation System](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Recommendation%20System.md)
 
-- [Robotics](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Robotics)
+- [Robotics](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Robotics.md)
 
 --- ---
 --- ---
