@@ -2,7 +2,7 @@
 
 - [Reinforcement Learning](#reinforcement-learning)
   + [Deep Reinforcement Learning](#deep-reinforcement-learning)
-  
+  - [Inverse Reinforcement Learning](#inverse-reinforcement-learning)
 --- ---
 
 ## Reinforcement Learning 
@@ -21,3 +21,5 @@
 - *Human-level control through deep reinforcement learning.* Nature 2015. [[PDF]](http://www.davidqiu.com:8888/research/nature14236.pdf)
 - *Playing Atari with Deep Reinforcement Learning.* Computer Science, 2013. [[PDF]](https://arxiv.org/pdf/1312.5602.pdf)
 
+### Inverse Reinforcement Learning
+- *Algorithms for inverse reinforcement learning.* ICML 2000 [[PDF]](http://ai.stanford.edu/~ang/papers/icml00-irl.pdf)
