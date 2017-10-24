@@ -1,11 +1,13 @@
 # Generative Adversarial Networks
 
 - [Generative Adversarial Networks](#generative-adversarial-networks)
+- [Variational AutoEncoder](variational-autoencoder)
 
 --- ---
 
 ## Generative Adversarial Networks
 
+- *Generative Adversarial Networks:An Overview.* IEEE-SPM 2017. [[PDF]](https://arxiv.org/pdf/1710.07035.pdf)
 - *IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.* SIGIR 2017. [[PDF]](https://arxiv.org/pdf/1705.10513.pdf)
 - *Improved training of wasserstein gans.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1704.00028.pdf)
 - *Wasserstein gan.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1701.07875.pdf)
@@ -17,3 +19,7 @@
 - *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1511.06434.pdf%C3%AF%C2%BC%E2%80%B0)
 - *Conditional Generative Adversarial Nets.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1411.1784.pdf)
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
+
+## Variational AutoEncoder
+
+- *Tutorial on Variational Autoencoders.* 2016. [[PDF]](https://arxiv.org/pdf/1606.05908.pdf)
