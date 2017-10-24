@@ -1,7 +1,7 @@
 # Generative Adversarial Networks
 
 - [Generative Adversarial Networks](#generative-adversarial-networks)
-- [Variational AutoEncoder](variational-autoEncoder)
+- [Variational AutoEncoder](#variational-autoencoder)
 
 --- ---
 
