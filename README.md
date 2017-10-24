@@ -53,6 +53,7 @@
 #### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 #### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 #### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
+#### [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 
 --- ---
 
