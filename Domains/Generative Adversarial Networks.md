@@ -1,7 +1,7 @@
 # Generative Adversarial Networks
 
 - [Generative Adversarial Networks](#generative-adversarial-networks)
-- [Variational AutoEncoder](variational-autoencoder)
+- [Variational Autoencoder](variational-autoencoder)
 
 --- ---
 
@@ -20,6 +20,6 @@
 - *Conditional Generative Adversarial Nets.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1411.1784.pdf)
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
 
-## Variational AutoEncoder
+## Variational Autoencoder
 
 - *Tutorial on Variational Autoencoders.* 2016. [[PDF]](https://arxiv.org/pdf/1606.05908.pdf)
