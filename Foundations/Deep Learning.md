@@ -19,6 +19,7 @@
 
 - *Deep convolutional neural network design patterns.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.00847.pdf)
 - *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* ICML 2015. [[PDF]](http://proceedings.mlr.press/v37/ioffe15.pdf)
+- *Path-SGD: Path-Normalized Optimization in Deep Neural Networks.* NIPS 2015. [[PDF]](https://arxiv.org/pdf/1506.02617.pdf)
 - *Dropout: a simple way to prevent neural networks from overfitting.* JMLR 2014. [[PDF]](http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - *Improving neural networks by preventing co-adaptation of feature detectors.* Computer Science, 2012. [[PDF]](https://arxiv.org/pdf/1207.0580.pdf)
 - *Understanding the difficulty of training deep feedforward neural networks.* AISTATS 2010. [[PDF]](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
