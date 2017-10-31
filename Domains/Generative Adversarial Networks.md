@@ -17,9 +17,10 @@
 - *Infogan: Interpretable representation learning by information maximizing generative adversarial nets.* NIPS 2016. [[PDF]](http://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf)
 - *Image-to-Image Translation with Conditional Adversarial Networks.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.07004.pdf)
 - *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1511.06434.pdf%C3%AF%C2%BC%E2%80%B0)
-- *Conditional Generative Adversarial Nets.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1411.1784.pdf)
+- *Conditional Generative Adversarial Nets.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1411.1784.pdf)  
+条件GAN，在输入层加上one-hot形式的标签。
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)  
-GAN基本原理
+GAN基本原理。
 
 ## Variational AutoEncoder
 
