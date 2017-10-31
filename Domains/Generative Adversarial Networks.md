@@ -19,7 +19,7 @@
 - *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1511.06434.pdf%C3%AF%C2%BC%E2%80%B0)
 - *Conditional Generative Adversarial Nets.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1411.1784.pdf)
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)
-  + GAN基本原理
+  GAN基本原理
 
 ## Variational AutoEncoder
 
