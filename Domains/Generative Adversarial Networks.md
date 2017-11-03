@@ -13,6 +13,7 @@
 - *Wasserstein gan.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1701.07875.pdf)
 - *Towards principled methods for training generative adversarial networks.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1701.04862.pdf)
 - *SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.* AAAI 2017. [[PDF]](https://pdfs.semanticscholar.org/c725/f86df25bd06dcac69f9e6d5b256a528dd78f.pdf)
+- *Generative Adversarial Text to Image Synthesis.* ICML 2016. [[PDF]](https://arxiv.org/pdf/1605.05396.pdf)
 - *Connecting generative adversarial networks and actor-critic methods.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1610.01945.pdf)
 - *Infogan: Interpretable representation learning by information maximizing generative adversarial nets.* NIPS 2016. [[PDF]](http://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf)
 - *Image-to-Image Translation with Conditional Adversarial Networks.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1611.07004.pdf)
