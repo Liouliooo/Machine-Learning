@@ -27,4 +27,4 @@
 - *Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.* Arxiv 2014. [[PDF]](https://arxiv.org/pdf/1412.3555.pdf)
 
 ### Attention
-
+- *Recurrent Models of Visual Attention.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.6247.pdf)
