@@ -16,7 +16,6 @@
 
 ### Long Short Term Memory
 
-- *Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1502.03044v2.pdf)
 - *An empirical exploration of recurrent network architectures.* ICML 2015. [[PDF]](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
 - *LSTM: A Search Space Odyssey.* IEEE TNNLS, 2015. [[PDF]](https://arxiv.org/pdf/1503.04069.pdf)
 - *Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1406.1078v3.pdf)
