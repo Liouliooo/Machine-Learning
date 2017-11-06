@@ -26,5 +26,6 @@
 - *Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling.* Arxiv 2014. [[PDF]](https://arxiv.org/pdf/1412.3555.pdf)
 
 ### Attention
+- *Effective Approaches to Attention-based Neural Machine Translation.* Computer Science, 2015. [[PDF]](http://serve.3ezy.com/arxiv.org/pdf/1508.04025)
 - *Neural Machine Translation by Jointly Learning to Align and Translate.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1409.0473.pdf)
 - *Recurrent Models of Visual Attention.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.6247.pdf)
