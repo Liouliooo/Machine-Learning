@@ -71,6 +71,7 @@
 - *Boosting Image Captioning with Attributes.* ICLR 2017. [[PDF]](https://arxiv.org/pdf/1611.01646.pdf)
 - *DenseCap: Fully Convolutional Localization Networks for Dense Captioning.* CVPR 2016. [[PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Johnson_DenseCap_Fully_Convolutional_CVPR_2016_paper.pdf)
 - *What value do explicit high level concepts have in vision to language problems?.* CVPR 2016. [[PDF]](https://arxiv.org/pdf/1506.01144.pdf)
+- *Deep visual-semantic alignments for generating image descriptions.* CVPR 2015. [[PDF]](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 - *Show and tell: A neural image caption generator.* CVPR 2015. [[PDF]](https://arxiv.org/pdf/1411.4555.pdf)
 - *Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1502.03044.pdf)
 - *From captions to visual concepts and back.* CVPR 2014. [[PDF]](https://arxiv.org/pdf/1411.4952.pdf)
