@@ -74,6 +74,7 @@
 - *Deep visual-semantic alignments for generating image descriptions.* CVPR 2015. [[PDF]](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
 - *Show and tell: A neural image caption generator.* CVPR 2015. [[PDF]](https://arxiv.org/pdf/1411.4555.pdf)
 - *Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1502.03044.pdf)
+- *Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN).* Arxiv 2014. [[PDF]](https://arxiv.org/pdf/1412.6632.pdf)
 - *From captions to visual concepts and back.* CVPR 2014. [[PDF]](https://arxiv.org/pdf/1411.4952.pdf)
 - *Guiding Long-Short Term Memory for Image Caption Generation.* ICCV 2015. [[PDF]](https://arxiv.org/pdf/1509.04942.pdf)
 
