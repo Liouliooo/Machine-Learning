@@ -21,7 +21,7 @@
 DCGAN，GAN原理没有变化，神经网络结构使用卷积网络，便于处理图像。  
   
 - *Conditional Generative Adversarial Nets.* Computer Science, 2014. [[PDF]](https://arxiv.org/pdf/1411.1784.pdf)  
-条件GAN，在输入层加上标签信息。例：以one-hot形式加入标签。  
+条件GAN，分别在Generator输入层和Discriminator输入层加上标签信息。例：以one-hot形式加入标签。  
 
 - *Generative adversarial nets.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.2661.pdf)  
 GAN基本原理。
