@@ -46,7 +46,7 @@
 ## Deep Learning Books
 
 - **Deep Learning.** Ian Goodfellow, Yoshua Bengio, Aaron Courville, MIT Press, 2016.
-
+- **Neural Networks:Tricks of the Trade.** Springer 2012(2nd ed). **[神经网络训练技巧，需要有个整体的了解]**
 ## Reinforcement Learning Books
 
 - **Algorithms for Reinforcement Learning.** Szepesvari Csaba, Morgan and Claypool Publishers, 2010.
