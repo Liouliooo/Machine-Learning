@@ -54,6 +54,9 @@
 #### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 #### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
 #### [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+#### [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+#### [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
+#### [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
 
 --- ---
 
