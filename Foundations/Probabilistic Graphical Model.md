@@ -15,6 +15,7 @@
 
 ### Bayesian Network
 
+- *Latent dirichlet allocation.* JMLR 2003. [[PDF]](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)
 - *An introduction to hidden Markov models.* IEEE assp magazine, 1986. [[PDF]](https://www.cs.umb.edu/~rvetro/vetroBioComp/HMM/Rabiner1986%20An%20Introduction%20to%20Hidden%20Markov%20Models.pdf)
 
 ### Markov Random Fields
