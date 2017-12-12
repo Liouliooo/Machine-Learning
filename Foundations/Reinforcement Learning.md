@@ -12,6 +12,7 @@
 - *Reinforcement learning in robotics: A survey.* IJRR 2013. [[PDF]](https://pdfs.semanticscholar.org/b13f/191aef22f4e2dc95d3ac9f2eed0da56cceb6.pdf)
 - *Reinforcement Learning in a Nutshell.* ESANN 2007. [[PDF]](http://image.diku.dk/igel/paper/RLiaN.pdf)
 - *Shaping and policy search in reinforcement learning.* Ng博士论文 2003. [[PDF]](http://rll.berkeley.edu/deeprlcourse/docs/ng-thesis.pdf)
+- *Policy Gradient Methods for Reinforcement Learning with Function Approximation.* NIPS 2000.(Actor-Critic理论) [[PDF]](http://mlg.eng.cam.ac.uk/rowan/files/rl/PolicyGradientMatejAnnotations.pdf)
 
 ##
 
