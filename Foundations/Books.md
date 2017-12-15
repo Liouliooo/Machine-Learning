@@ -35,6 +35,7 @@
 ## Statistical Machine Learning
 
 - **机器学习.** 周志华, 清华大学出版社, 2016.
+- **概率图模型:原理与技术.** 王飞跃, 清华大学出版社, 2015.
 - **Ensemble Methods: Foundations and Algorithms.** Zhi-Hua Zhou, CRC Press, 2012. [[PDF]](http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf)
 - **统计学习方法.** 李航, 清华大学出版社, 2012.
 - **Machine Learning: A Probabilistic Perspective.** Kevin P. Murphy, MIT Press, 2012.
