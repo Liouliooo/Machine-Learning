@@ -18,6 +18,7 @@
 
 ### Deep Reinforcement Learning
 
+- *Deep Reinforcement Learning: An Overview.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1701.07274.pdf)
 - *A Brief Survey of Deep Reinforcement Learning.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.05866v1.pdf)
 - *Asynchronous methods for deep reinforcement learning.* ICML 2016. [[PDF]](http://proceedings.mlr.press/v48/mniha16.pdf)
 - *Continuous control with deep reinforcement learning.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1509.02971.pdf)
