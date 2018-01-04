@@ -32,7 +32,7 @@
 - *Gradient-based learning applied to document recognition.* Proceedings of the IEEE, 1998. [[PDF]](http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf)
 
 ### Transposed Convolution Networks
-- *A guide to convolution arithmetic for deep learning.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1603.07285.pdf)
+- *A guide to convolution arithmetic for deep learning.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1603.07285.pdf)[[LINK]](https://github.com/vdumoulin/conv_arithmetic)
 - *Adaptive deconvolutional networks for mid and high level feature learning.* ICCV 2011. [[PDF]](http://cs.nyu.edu/~fergus/drafts/deconv_iccv_names.pdf)
 
 --- ---
