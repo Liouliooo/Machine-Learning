@@ -1,6 +1,6 @@
 # 一些别人的总结
 
-## Machine Learning
+### Machine Learning
 #### [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 #### [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 #### [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
