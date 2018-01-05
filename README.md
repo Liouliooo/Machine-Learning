@@ -44,19 +44,31 @@
 --- ---
 --- ---
 
-## 一些别人总结的工作
+## 一些别人的总结
+### Machine Learning
+#### [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+#### [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+#### [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+#### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
 
+### Reinforcement Learning
+#### [awesome-rl](https://github.com/aikorea/awesome-rl)
+#### [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
+
+### Deep Learning
 #### [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 #### [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-#### [awesome-rl](https://github.com/aikorea/awesome-rl)
 #### [awesome-rnn](https://github.com/kjw0612/awesome-rnn)
+#### [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+#### [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
+
+### Computer Vision
 #### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 #### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
-#### [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
-#### [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+
+### Artificial Intelligence
 #### [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-#### [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
-#### [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
+
 
 --- ---
 
