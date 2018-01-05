@@ -44,7 +44,7 @@
 --- ---
 --- ---
 
-## 一些别人的总结
+## [一些别人的总结](https://github.com/Liouliooo/A-Little-Boat/blob/master/Resources/Massive%20Resources.md)
 
 --- ---
 
