@@ -62,6 +62,9 @@
 #### [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 #### [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
+### Natural Language Processing
+#### [awesome-nlp](https://github.com/keon/awesome-nlp)
+
 ### Computer Vision
 #### [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 #### [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
