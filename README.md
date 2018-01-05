@@ -46,10 +46,6 @@
 
 ## [一些别人的总结](https://github.com/Liouliooo/A-Little-Boat/blob/master/Resources/Massive%20Resources.md)
 
---- ---
 
-## 一些有意思个人网站
-#### [Andrej Karpathy blog](http://karpathy.github.io/)
-#### [Sergey Levine](http://people.eecs.berkeley.edu/~svlevine/)
-#### [John Schulman](http://joschu.net/)
-#### [Pieter Abbeel](http://people.eecs.berkeley.edu/~pabbeel/)
+## [一些有意思个人网站](https://github.com/Liouliooo/A-Little-Boat/blob/master/Resources/Blogs.md)
+
