@@ -6,6 +6,7 @@
 - [Statistical Machine Learning](#statistical-machine-learning)
 - [Deep Learning Books](#deep-learning-books)
 - [Reinforcement Learning Books](#reinforcement-learning-books)
+- [Distributed System](#distributed-system)
   
 --- ---
 
