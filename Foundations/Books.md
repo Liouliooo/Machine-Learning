@@ -15,6 +15,7 @@
 - **深入理解计算机系统(原书第3版).** Randal E.Bryant, 机械工业出版社, 2016.
 - **算法导论(第3版).** Thomas H.Cormen, 机械工业出版社, 2012.
 - **算法(第4版).** Robert Sedgewick, 人民邮电出版社, 2012.
+- **计算机程序的构造和解释(原书第2版).**  Harold Abelson, 机械工业出版社, 2004.
 
 ## Software Engineering
 
