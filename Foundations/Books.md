@@ -50,7 +50,13 @@
 
 - **Deep Learning.** Ian Goodfellow, Yoshua Bengio, Aaron Courville, MIT Press, 2016.
 - **Neural Networks:Tricks of the Trade.** Springer 2012(2nd ed). **[神经网络训练技巧，需要有个整体的了解]**
+
 ## Reinforcement Learning Books
 
 - **Algorithms for Reinforcement Learning.** Szepesvari Csaba, Morgan and Claypool Publishers, 2010.
-- **Reinforcement Learning: An Introduction.** Richard S. Sutton, MIT Press, 2005.
+- **Reinforcement Learning: An Introduction.** Richard S. Sutton, MIT Press, 2005. [[LINK]](http://www.incompleteideas.net/book/the-book-2nd.html)
+
+## Distributed System
+
+- **大规模分布式存储系统:原理解析与架构实战.** 杨传辉， 机械工业出版社, 2013.
+- **分布式系统原理与范型.** 特尼博姆, 清华大学出版社, 2008.
