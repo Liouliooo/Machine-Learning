@@ -6,6 +6,8 @@
 - [Object Detection](#object-detection)
 - [Image Semantic Segmentation](#image-semantic-segmentation)
 - [Image Caption](#image-caption)
+- [Face Recognition](#face-recognition)
+
 --- ---
 
 ## Convolutional Neural Networks
@@ -77,5 +79,11 @@
 - *Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN).* Arxiv 2014. [[PDF]](https://arxiv.org/pdf/1412.6632.pdf)
 - *From captions to visual concepts and back.* CVPR 2014. [[PDF]](https://arxiv.org/pdf/1411.4952.pdf)
 - *Guiding Long-Short Term Memory for Image Caption Generation.* ICCV 2015. [[PDF]](https://arxiv.org/pdf/1509.04942.pdf)
+
+--- ---
+
+## Face Recognition
+
+- *Deep Learning Face Representation from Predicting 10,000 Classes.* CVPR 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr14.pdf)
 
 
