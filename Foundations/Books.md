@@ -16,7 +16,8 @@
 - **深入理解计算机系统(原书第3版).** Randal E.Bryant, 机械工业出版社, 2016.
 - **算法导论(第3版).** Thomas H.Cormen, 机械工业出版社, 2012.
 - **算法(第4版).** Robert Sedgewick, 人民邮电出版社, 2012.
-- :star:**现代编译原理:C语言描述.** Andrew W.Apple, 人民邮电出版社, 2006.
+- **编译原理:原理、技术与工具.**(龙书)  Alfred V.Aho, 机械工业出版社, 2008. 
+- :star:**现代编译原理:C语言描述.**(虎书) Andrew W.Apple, 人民邮电出版社, 2006.
 - :star:**计算机程序的构造和解释(原书第2版).**  Harold Abelson, 机械工业出版社, 2004.
 
 ## Software Engineering
