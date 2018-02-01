@@ -1,12 +1,17 @@
 # Deep Learning
 
+- [Capsules Net](#capsules-net)
 - [Deep Learning](#deep-learning)
 - [Practical Techniques](#practical-techniques)
 - [Activation Function](#activation-function)
 - [Visualization](#visualization)
 - [Stack](#stack)
 
+
 --- ---
+
+## Capsules Net
+- *Dynamic Routing Between Capsules.* NIPS 2017. [[PDF]](https://arxiv.org/pdf/1710.09829.pdf)
   
 ## Deep Learning
 
