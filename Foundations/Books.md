@@ -12,7 +12,7 @@
 
 ## Computer Science
 
-- **计算机程序设计艺术.** Donald E. Knuth. &star;
+- **计算机程序设计艺术.** Donald E. Knuth. :star:star
 - **深入理解计算机系统(原书第3版).** Randal E.Bryant, 机械工业出版社, 2016.
 - **算法导论(第3版).** Thomas H.Cormen, 机械工业出版社, 2012.
 - **算法(第4版).** Robert Sedgewick, 人民邮电出版社, 2012.
