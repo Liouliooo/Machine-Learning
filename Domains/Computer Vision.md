@@ -85,5 +85,6 @@
 ## Face Recognition
 
 - *Deep Learning Face Representation from Predicting 10,000 Classes.* CVPR 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr14.pdf)
+- *Deep learning face representation by joint identification-verification.* NIPS 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunCWTnips14.pdf)
 
 
