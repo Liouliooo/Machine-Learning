@@ -84,9 +84,9 @@
 
 ## Face Recognition
 
-- *DeepID3: Face Recognition with Very Deep Neural Networks.* Computer Science, 2015. [[PDF]](https://arxiv.org/pdf/1502.00873.pdf)
-- *Deep Learning Face Representation from Predicting 10,000 Classes.* CVPR 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr14.pdf)
-- *Deep learning face representation by joint identification-verification.* NIPS 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunCWTnips14.pdf)
+- *DeepID3: Face Recognition with Very Deep Neural Networks.* Computer Science, 2015. (DeepID3) [[PDF]](https://arxiv.org/pdf/1502.00873.pdf)
+- *Deep learning face representation by joint identification-verification.* NIPS 2014. (DeepID2) [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunCWTnips14.pdf)
+- *Deep Learning Face Representation from Predicting 10,000 Classes.* CVPR 2014. (DeepID) [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr14.pdf)
 - *Deep Learning Multi-View Representation for Face Recognition.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.6947.pdf)
 - *Hybrid Deep Learning for Face Verification.* ICCV 2013. [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Sun_Hybrid_Deep_Learning_2013_ICCV_paper.pdf)
 - *Deep Learning Identity-Preserving Face Space.* ICCV 2013. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/zhuLWTiccv13.pdf)
