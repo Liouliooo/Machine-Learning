@@ -88,5 +88,7 @@
 - *Deep Learning Face Representation from Predicting 10,000 Classes.* CVPR 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTcvpr14.pdf)
 - *Deep learning face representation by joint identification-verification.* NIPS 2014. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunCWTnips14.pdf)
 - *Hybrid Deep Learning for Face Verification.* ICCV 2013. [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Sun_Hybrid_Deep_Learning_2013_ICCV_paper.pdf)
+- *Deep Learning Identity-Preserving Face Space.* ICCV 2013. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/zhuLWTiccv13.pdf)
+
 
 
