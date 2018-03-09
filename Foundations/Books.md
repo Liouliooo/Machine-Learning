@@ -26,6 +26,7 @@
 - **Software Architecture Patterns.** Mark Richards, O'Reilly, 2015. [[PDF]](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 - **代码大全(第2版).** Steve McConnell, 电子工业出版社, 2006.
 - **重构:改善既有代码的设计.** Martin Fowler, 中国电力出版社, 2003. :star:
+- **人件.** Tom DeMarco, 清华大学出版社, 2003. 
 - **人月神话.** FrederickP.Brooks.Jr, 清华大学出版社, 2002. :star:
 - **设计模式:可复用面向对象软件的基础.** Erich Gamma, 机械工业出版社, 2000.
 
