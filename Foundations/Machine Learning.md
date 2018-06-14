@@ -15,6 +15,7 @@
 
 ### Supervised Learning
 
+- *Multi-Layered Gradient Boosting Decision Trees.* ArXiv 2018. [[PDF]](https://arxiv.org/pdf/1806.00007.pdf)
 - *AutoEncoder by Forest.* ArXiv 2017. [[PDF]](https://arxiv.org/pdf/1709.09018.pdf)
 - *Deep Forest: Towards An Alternative to Deep Neural Networks.* IJCAI 2017. [[PDF]](https://arxiv.org/pdf/1702.08835)
 - *XGBoost: A Scalable Tree Boosting System.* SIGKDD 2016. [[PDF]](https://arxiv.org/pdf/1603.02754.pdf)
