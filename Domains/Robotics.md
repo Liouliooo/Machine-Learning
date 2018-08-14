@@ -9,4 +9,6 @@
 --- ---
 
 ## Robot Grasping
+
+- *SegICP:Integrated deep semantic segmentation and pose estimation.* ICIRS 2017. [[https://arxiv.org/pdf/1703.01661.pdf]]
 - *End-to-end training of deep visuomotor policies.* JMLR 2016. [[PDF]](https://arxiv.org/pdf/1504.00702.pdf)
