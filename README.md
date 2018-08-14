@@ -11,7 +11,7 @@
 ## 网站
 - [arXiv](https://arxiv.org/)
 - [ArXiv-Sanity](http://www.arxiv-sanity.com/)
-- [GitSiv](http://www.gitxiv.com/)
+- [GitXiv](http://www.gitxiv.com/)
 
 --- ---
 
