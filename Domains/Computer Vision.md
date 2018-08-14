@@ -7,6 +7,7 @@
 - [Image Semantic Segmentation](#image-semantic-segmentation)
 - [Image Caption](#image-caption)
 - [Face Recognition](#face-recognition)
+- [Art](#art)
 
 --- ---
 
@@ -91,5 +92,7 @@
 - *Hybrid Deep Learning for Face Verification.* ICCV 2013. [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Sun_Hybrid_Deep_Learning_2013_ICCV_paper.pdf)
 - *Deep Learning Identity-Preserving Face Space.* ICCV 2013. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/zhuLWTiccv13.pdf)
 
+--- ---
 
+## Art
 
