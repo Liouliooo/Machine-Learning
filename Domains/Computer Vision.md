@@ -42,7 +42,7 @@
 
 ## Object Detection
 
-- *YOLOv3: An Incremental Improvement.* arXiv 2018. [[PDF]](https://arxiv.org/pdf/1804.02767.pdf)
+- *YOLOv3: An Incremental Improvement.* arXiv 2018. [[PDF]](https://arxiv.org/pdf/1804.02767.pdf) [[Page]](https://pjreddie.com/publications/)
 - *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
 - *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.* TPAMI 2017. [[PDF]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 - *YOLO9000: Better, Faster, Stronger.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1612.08242.pdf)
