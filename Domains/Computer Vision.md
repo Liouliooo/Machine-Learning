@@ -13,6 +13,7 @@
 
 ## Convolutional Neural Networks
 
+- *Squeeze-and-Excitation Networks.* CVPR 2018. [[PDF]](https://arxiv.org/pdf/1709.01507.pdf)
 - *Deformable Convolutional Networks.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06211.pdf)
 - *Xception: Deep Learning with Depthwise Separable Convolutions.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1610.02357.pdf)
 - *Aggregated Residual Transformations for Deep Neural Networks.* CVPR 2017. [[PDF]](https://arxiv.org/pdf/1611.05431.pdf)
