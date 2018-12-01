@@ -98,6 +98,7 @@
 --- ---
 ## Point Cloud
 
+- *SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation.* CVPR, 2018. [[PDF]](https://arxiv.org/pdf/1711.08588.pdf)
 - *PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.* NIPS, 2017. [[PDF]](https://arxiv.org/pdf/1706.02413.pdf)
 - *PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.* CVPR, 2017. [[PDF]](https://arxiv.org/pdf/1612.00593.pdf)
 
