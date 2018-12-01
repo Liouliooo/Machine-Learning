@@ -7,6 +7,7 @@
 - [Image Semantic Segmentation](#image-semantic-segmentation)
 - [Image Caption](#image-caption)
 - [Face Recognition](#face-recognition)
+- [Point Cloud](#point-cloud)
 - [Art](#art)
 
 --- ---
@@ -93,6 +94,12 @@
 - *Deep Learning Multi-View Representation for Face Recognition.* NIPS 2014. [[PDF]](https://arxiv.org/pdf/1406.6947.pdf)
 - *Hybrid Deep Learning for Face Verification.* ICCV 2013. [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Sun_Hybrid_Deep_Learning_2013_ICCV_paper.pdf)
 - *Deep Learning Identity-Preserving Face Space.* ICCV 2013. [[PDF]](http://www.ee.cuhk.edu.hk/~xgwang/papers/zhuLWTiccv13.pdf)
+
+--- ---
+## Point Cloud
+
+- *PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.* NIPS, 2017. [[PDF]](https://arxiv.org/pdf/1706.02413.pdf)
+- *PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.* CVPR, 2017. [[PDF]](https://arxiv.org/pdf/1612.00593.pdf)
 
 --- ---
 
