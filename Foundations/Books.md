@@ -32,6 +32,7 @@
 
 ## Mathematics
 
+- **线性代数的几何意义.** 任广千,谢聪,胡翠芳, 西安电子科技大学出版社, 2015. :star:
 - **矩阵分析与应用(第2版).** 张贤达, 清华大学出版社, 2014.
 - **随机过程(原书第二版).** Sheldon M. Ross, 机械工业出版社, 2013.
 - **凸优化(Convex Optimization).** Stephen Boyd, 清华大学出版社, 2013.
@@ -46,20 +47,21 @@
 - **Ensemble Methods: Foundations and Algorithms.** Zhi-Hua Zhou, CRC Press, 2012. [[PDF]](http://www2.islab.ntua.gr/attachments/article/86/Ensemble%20methods%20-%20Zhou.pdf)
 - **统计学习方法.** 李航, 清华大学出版社, 2012.
 - **Machine Learning: A Probabilistic Perspective.** Kevin P. Murphy, MIT Press, 2012.
-- **Pattern Recognition and Machine Learning.** Christopher Bishop, Springer, 2006.
+- **Pattern Recognition and Machine Learning.** Christopher Bishop, Springer, 2006. :star::star:
 - **All of Statistics.** Larry Wasserman, Springer, 2004.
 - **The Elements of Statistical Learning.** T. Hastie, Springer, 2003.
 - **Pattern Classification(2nd Edition).** Richard O. Duda, Wiley, 2003.
 
 ## Deep Learning Books
 
-- **Deep Learning.** Ian Goodfellow, Yoshua Bengio, Aaron Courville, MIT Press, 2016.
+- **Deep Learning.** Ian Goodfellow, Yoshua Bengio, Aaron Courville, MIT Press, 2016. :star::star:
 - **Neural Networks:Tricks of the Trade.** Springer 2012(2nd ed). **[神经网络训练技巧，需要有个整体的了解]**
 
 ## Reinforcement Learning Books
 
+- **Reinforcement Learning: An Introduction.** Richard S. Sutton, MIT Press, 2018(2nd ed). [[LINK]](http://www.incompleteideas.net/book/the-book-2nd.html) :star::star:
 - **Algorithms for Reinforcement Learning.** Szepesvari Csaba, Morgan and Claypool Publishers, 2010.
-- **Reinforcement Learning: An Introduction.** Richard S. Sutton, MIT Press, 2005. [[LINK]](http://www.incompleteideas.net/book/the-book-2nd.html)
+
 
 ## Distributed System
 
