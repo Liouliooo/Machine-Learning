@@ -50,6 +50,8 @@
 
 --- ---
 --- ---
+## [神经网络与深度学习](https://nndl.github.io/)
+
 
 ## [一些别人的总结](https://github.com/Liouliooo/A-Little-Boat/blob/master/Resources/Massive%20Resources.md)
 
