@@ -44,7 +44,7 @@
 
 ## Object Detection
 
-
+- *SNIPER: Efficient Multi-Scale Training.* arXiv 2018. [[PDF]](https://arxiv.org/pdf/1805.09300.pdf)
 - *An Analysis of Scale Invariance in Object Detection.* CVPR 2018. [[PDF]](https://arxiv.org/pdf/1711.08189.pdf)
 - *Cascade R-CNN: Delving into High Quality Object Detection.* CVPR 2018. [[PDF]](https://arxiv.org/pdf/1712.00726.pdf)
 - *YOLOv3: An Incremental Improvement.* arXiv 2018. [[PDF]](https://arxiv.org/pdf/1804.02767.pdf) [[Page]](https://pjreddie.com/publications/)
