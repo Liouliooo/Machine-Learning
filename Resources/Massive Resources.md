@@ -37,3 +37,11 @@
 ### Artificial Intelligence
 #### [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 
+## 
+
+### Model Compression
+#### [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+
+
+
+
