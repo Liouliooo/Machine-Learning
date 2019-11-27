@@ -1,7 +1,7 @@
 
 # Acceleration
 
-- [Convolutional Neural Networks](#survey)
+- [Survey](#survey)
 
 --- ---
 
