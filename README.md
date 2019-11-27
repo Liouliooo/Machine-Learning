@@ -34,6 +34,8 @@
 
 ### Domains
 
+- [Acceleration](https://github.com/Liouliooo/Machine-Learning/blob/master/Domains/Acceleration.md)
+
 - [Computer Vision](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Computer%20Vision.md)
 
 - [Data Mining](https://github.com/Liouliooo/A-Little-Boat/blob/master/Domains/Data%20Mining.md)
