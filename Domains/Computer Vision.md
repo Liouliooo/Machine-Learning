@@ -51,6 +51,7 @@
 - *Focal Loss for Dense Object Detection.* ICCV 2017. [[PDF]](https://arxiv.org/pdf/1708.02002.pdf)
 - *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
 - *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.* TPAMI 2017. [[PDF]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
+- *Feature Pyramid Networks for Object Detection.* CVPR 2017. [[PDF]](https://arxiv.org/abs/1612.03144)
 - *YOLO9000: Better, Faster, Stronger.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1612.08242.pdf)
 - *You Only Look Once: Unified, Real-Time Object Detection.* CVPR 2016. [[PDF]](http://101.96.8.164/www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - *SSD: Single Shot MultiBox Detector.* ECCV 2016. [[PDF]](https://arxiv.org/pdf/1512.02325.pdf)
