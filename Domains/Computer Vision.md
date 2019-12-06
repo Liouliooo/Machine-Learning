@@ -66,13 +66,16 @@
 
 ## Image Semantic Segmentation
 
+- *Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation.* arXiv 2019. (Auto-DeepLab) [[PDF]](https://arxiv.org/abs/1901.02985)
 - *LinkNet: Relational Embedding for Scene Graph.* arXiv 2018. [[PDF]](https://arxiv.org/abs/1811.06410) 
+- *Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.* arXiv 2018. (DeepLab-v3+) [[PDF]](http://cn.arxiv.org/abs/1802.02611)
 - *Stacked Deconvolutional Network for Semantic Segmentation.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.04943.pdf)
-- *DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1606.00915v2.pdf)
+- *Rethinking Atrous Convolution for Semantic Image Segmentation.* arXiv 2017. (DeepLab-v3) [[PDF]](https://arxiv.org/abs/1706.05587)
+- *DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.* TPAMI 2017. (DeepLab-v2) [[PDF]](https://arxiv.org/pdf/1606.00915v2.pdf)
 - *SegNet: A Deep Convolutional Encoder-Decoder Architecture for Scene Segmentation.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1511.00561.pdf)
 - *Learning Deconvolution Network for Semantic Segmentation.* ICCV 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
 - *Fully Convolutional Networks for Semantic Segmentation.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-- *Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.* Computer Science, 2014.[[PDF]](https://arxiv.org/pdf/1412.7062.pdf)
+- *Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.* ICLR 2015. (DeepLab-v1) [[PDF]](https://arxiv.org/pdf/1412.7062v3.pdf)
 
 --- ---
 
