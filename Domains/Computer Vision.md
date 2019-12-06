@@ -66,6 +66,7 @@
 
 ## Image Semantic Segmentation
 
+- *LinkNet: Relational Embedding for Scene Graph.* arXiv 2018. [[PDF]](https://arxiv.org/abs/1811.06410) 
 - *Stacked Deconvolutional Network for Semantic Segmentation.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.04943.pdf)
 - *DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1606.00915v2.pdf)
 - *SegNet: A Deep Convolutional Encoder-Decoder Architecture for Scene Segmentation.* TPAMI 2017. [[PDF]](https://arxiv.org/pdf/1511.00561.pdf)
