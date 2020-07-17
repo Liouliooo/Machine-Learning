@@ -18,6 +18,7 @@
 
 ### Deep Reinforcement Learning
 
+- *深度强化学习综述.* 计算机学报 2018. [[PDF]](http://cjc.ict.ac.cn/online/bfpub/lq-2017119103322-2017215102522.pdf)
 - *Deep Reinforcement Learning: An Overview.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1701.07274.pdf)
 - *A Brief Survey of Deep Reinforcement Learning.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1708.05866v1.pdf)
 - *深度强化学习综述:兼论计算机围棋的发展.* 控制理论与应用 2016. [[PDF]](http://jcta.alljournals.ac.cn/cta_cn/ch/reader/create_pdf.aspx?file_no=CCTA160173&flag=1&journal_id=cta_cn&year_id=2016)
