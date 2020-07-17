@@ -5,6 +5,7 @@
   + [Transposed Convolution Networks](#transposed-convolution-networks)
 - [Object Detection](#object-detection)
 - [Image Semantic Segmentation](#image-semantic-segmentation)
+- [Image Instance Segmentation](#image-instance-segmentation)
 - [Image Caption](#image-caption)
 - [Face Recognition](#face-recognition)
 - [Point Cloud](#point-cloud)
@@ -44,6 +45,7 @@
 
 ## Object Detection
 
+- *YOLOv4: Optimal Speed and Accuracy of Object Detection.* arXiv 2020. [[PDF]](https://arxiv.org/abs/2004.10934)
 - *SNIPER: Efficient Multi-Scale Training.* arXiv 2018. [[PDF]](https://arxiv.org/pdf/1805.09300.pdf)
 - *An Analysis of Scale Invariance in Object Detection.* CVPR 2018. [[PDF]](https://arxiv.org/pdf/1711.08189.pdf)
 - *Cascade R-CNN: Delving into High Quality Object Detection.* CVPR 2018. [[PDF]](https://arxiv.org/pdf/1712.00726.pdf)
@@ -76,6 +78,12 @@
 - *Learning Deconvolution Network for Semantic Segmentation.* ICCV 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
 - *Fully Convolutional Networks for Semantic Segmentation.* CVPR 2015. [[PDF]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
 - *Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.* ICLR 2015. (DeepLab-v1) [[PDF]](https://arxiv.org/pdf/1412.7062v3.pdf)
+
+--- ---
+
+## Image Instance Segmentation
+
+
 
 --- ---
 
