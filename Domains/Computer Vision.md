@@ -51,7 +51,6 @@
 - *Cascade R-CNN: Delving into High Quality Object Detection.* CVPR 2018. [[PDF]](https://arxiv.org/pdf/1712.00726.pdf)
 - *YOLOv3: An Incremental Improvement.* arXiv 2018. [[PDF]](https://arxiv.org/pdf/1804.02767.pdf) [[Page]](https://pjreddie.com/publications/)
 - *Focal Loss for Dense Object Detection.* ICCV 2017. [[PDF]](https://arxiv.org/pdf/1708.02002.pdf)
-- *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
 - *Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks.* TPAMI 2017. [[PDF]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)
 - *Feature Pyramid Networks for Object Detection.* CVPR 2017. [[PDF]](https://arxiv.org/abs/1612.03144)
 - *YOLO9000: Better, Faster, Stronger.* arXiv 2016. [[PDF]](https://arxiv.org/pdf/1612.08242.pdf)
@@ -83,6 +82,7 @@
 
 ## Image Instance Segmentation
 
+- *Mask r-cnn.* arXiv 2017. [[PDF]](https://arxiv.org/pdf/1703.06870.pdf)
 
 
 --- ---
